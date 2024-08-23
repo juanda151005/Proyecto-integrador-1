@@ -12,5 +12,5 @@ def home(request):
         cities = City.objects.filter(name__icontains=searchTerm)
     else:  
         cities=City.objects.all()
-    cities = cities.order_by('ranking')
+    cities = cities.order_by('-rate')
     return render(request, 'home.html', {'searchTerm': searchTerm, 'cities': cities})
