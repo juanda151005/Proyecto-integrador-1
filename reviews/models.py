@@ -13,7 +13,7 @@ class range(models.IntegerChoices):
         NINE = 9
         TEN = 10
 
-class reviews(models.Model):
+class Reviews(models.Model):
     city = models.CharField(max_length=100)
     general_review = models.CharField(max_length=2000)
     touristic_places_rate = models.IntegerField(choices=range.choices, default=range.ONE)
@@ -41,4 +41,4 @@ class reviews(models.Model):
 
 
     def __str__(self):
-        return self.name
+        return self.city

@@ -1,0 +1,42 @@
+[
+    {
+        "city": "Medellin",
+        "general_review": "Medellín is a vibrant city known for its warm climate and welcoming people. It offers a rich cultural experience with a variety of museums, parks, and historical sites.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 3,
+        "gastronomy_rate": 2,
+        "costs_rate": 1,
+        "safety_rate": 6,
+        "weather_rate": 6
+    },
+    {
+        "city": "Medellin",
+        "general_review": "Medellín stands out for its innovative urban development, including the famous cable car system that connects different neighborhoods, making it an interesting destination for tourists.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 2,
+        "gastronomy_rate": 4,
+        "costs_rate": 6,
+        "safety_rate": 1,
+        "weather_rate": 10
+    },
+    {
+        "city": "Medellin",
+        "general_review": "Known as the 'City of Eternal Spring,' Medellín boasts pleasant weather year-round and is renowned for its flower festival, which attracts visitors from around the world.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 7,
+        "costs_rate": 5,
+        "safety_rate": 5,
+        "weather_rate": 10
+    },
+    {
+        "city": "Medellin",
+        "general_review": "Medellín has transformed from a city with a troubled past to a beacon of modernity and innovation, offering visitors a mix of rich history and contemporary culture.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 1,
+        "gastronomy_rate": 1,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 2
+    }
+]
