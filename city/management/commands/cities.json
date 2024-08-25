@@ -1,0 +1,536 @@
+[
+    {
+        "name": "Leticia",
+        "country": "Colombia",
+        "rate": 8.4,
+        "description": "Leticia is the capital of the Amazonas department, known for its rich biodiversity, lush jungles, and access to the Amazon River."
+    },
+    {
+        "name": "Puerto Nariño",
+        "country": "Colombia",
+        "rate": 7.8,
+        "description": "Puerto Nariño is a small town in Amazonas, famous for its focus on ecotourism, indigenous communities, and natural landscapes."
+    },
+    {
+        "name": "Medellin",
+        "country": "Colombia",
+        "rate": 9.2,
+        "description": "Medellin, the city of eternal spring, is famous for its temperate climate, urban innovation, and its spectacular Flower Festival."
+    },
+    {
+        "name": "Guatape",
+        "country": "Colombia",
+        "rate": 8.9,
+        "description": "Guatape is a popular tourist destination near Medellin, known for its colorful architecture, El Peñon de Guatape, and scenic waterscapes."
+    },
+    {
+        "name": "Rionegro",
+        "country": "Colombia",
+        "rate": 7.6,
+        "description": "Rionegro is a city in Antioquia with a cool climate, colonial history, and proximity to Jose Maria Cordova International Airport."
+    },
+    {
+        "name": "Arauca",
+        "country": "Colombia",
+        "rate": 7.4,
+        "description": "Arauca is the capital of the Arauca department, known for its cattle ranching, llanero traditions, and its location on the Venezuelan border."
+    },
+    {
+        "name": "Tame",
+        "country": "Colombia",
+        "rate": 7.0,
+        "description": "Tame is a city in Arauca with a rich history, having been the site of significant events during Colombia's independence."
+    },
+    {
+        "name": "Saravena",
+        "country": "Colombia",
+        "rate": 6.8,
+        "description": "Saravena is a dynamic city in the Arauca department, known for its agriculture and role as a commercial hub in the region."
+    },
+    {
+        "name": "Barranquilla",
+        "country": "Colombia",
+        "rate": 8.5,
+        "description": "Barranquilla is known for its famous carnival, one of the largest and most vibrant celebrations in Colombia, recognized by UNESCO."
+    },
+    {
+        "name": "Soledad",
+        "country": "Colombia",
+        "rate": 7.2,
+        "description": "Soledad is a city near Barranquilla, known for its urban growth and importance as a metropolitan area."
+    },
+    {
+        "name": "Sabanalarga",
+        "country": "Colombia",
+        "rate": 6.9,
+        "description": "Sabanalarga is a municipality in Atlantico, known for its agricultural production and popular festivals."
+    },
+    {
+        "name": "Bogota",
+        "country": "Colombia",
+        "rate": 8.5,
+        "description": "Bogota, the capital of Colombia, is a vibrant and diverse city known for its rich history, world-class museums, and a growing culinary scene."
+    },
+    {
+        "name": "Cartagena",
+        "country": "Colombia",
+        "rate": 9.5,
+        "description": "Cartagena is a top tourist destination with a colonial old town, beautiful beaches, and a rich Caribbean cultural heritage."
+    },
+    {
+        "name": "Magangue",
+        "country": "Colombia",
+        "rate": 7.1,
+        "description": "Magangue is an important river port in the Bolivar department, known for its strategic location on the Magdalena River."
+    },
+    {
+        "name": "Turbaco",
+        "country": "Colombia",
+        "rate": 7.0,
+        "description": "Turbaco is a city near Cartagena, known for its lush green landscapes and historical significance in the Bolivar department."
+    },
+    {
+        "name": "Tunja",
+        "country": "Colombia",
+        "rate": 7.8,
+        "description": "Tunja, the capital of Boyaca, is a city rich in colonial history, known for its well-preserved architecture and cultural heritage."
+    },
+    {
+        "name": "Duitama",
+        "country": "Colombia",
+        "rate": 7.5,
+        "description": "Duitama is a city in Boyaca, recognized for its industrial growth, cold climate, and traditional festivals."
+    },
+    {
+        "name": "Sogamoso",
+        "country": "Colombia",
+        "rate": 7.4,
+        "description": "Sogamoso is known as the 'City of the Sun' and is a key city in Boyaca with a rich indigenous history and close proximity to Lake Tota."
+    },
+    {
+        "name": "Pereira",
+        "country": "Colombia",
+        "rate": 7.6,
+        "description": "Pereira is a dynamic city in the Coffee Region, known for its coffee production, mountainous landscapes, and access to national parks like Los Nevados."
+    },
+    {
+        "name": "Armenia",
+        "country": "Colombia",
+        "rate": 7.3,
+        "description": "Armenia is a city in the heart of the Coffee Region, known for its coffee production and proximity to attractions like the Coffee Park."
+    },
+    {
+        "name": "Florencia",
+        "country": "Colombia",
+        "rate": 7.2,
+        "description": "Florencia is the capital of the Caqueta department, known for its tropical rainforest, vibrant culture, and role as a gateway to the Amazon."
+    },
+    {
+        "name": "San Vicente del Caguan",
+        "country": "Colombia",
+        "rate": 6.9,
+        "description": "San Vicente del Caguan is a town in Caqueta, recognized for its agricultural activities and its significance in the peace process with guerrilla groups."
+    },
+    {
+        "name": "Solano",
+        "country": "Colombia",
+        "rate": 6.7,
+        "description": "Solano is a municipality in Caqueta, known for its rural landscapes and role in local agricultural production."
+    },
+    {
+        "name": "Yopal",
+        "country": "Colombia",
+        "rate": 7.3,
+        "description": "Yopal is the capital of Casanare, known for its llanero culture, agricultural activities, and as a hub for the oil industry."
+    },
+    {
+        "name": "Arauquita",
+        "country": "Colombia",
+        "rate": 7.0,
+        "description": "Arauquita is a town in Casanare known for its cattle ranching, proximity to the Venezuelan border, and its cultural heritage."
+    },
+    {
+        "name": "Tamara",
+        "country": "Colombia",
+        "rate": 6.8,
+        "description": "Tamara is a municipality in Casanare, known for its agricultural production and rural charm."
+    },
+    {
+        "name": "Popayan",
+        "country": "Colombia",
+        "rate": 8.0,
+        "description": "Popayan, known as the 'White City', is famous for its well-preserved colonial architecture and its role in Colombian history and culture."
+    },
+    {
+        "name": "Cali",
+        "country": "Colombia",
+        "rate": 8.3,
+        "description": "Cali, the world capital of salsa, offers a vibrant nightlife, rich Afro-Colombian culture, and is known for its music and dance scenes."
+    },
+    {
+        "name": "Pasto",
+        "country": "Colombia",
+        "rate": 7.6,
+        "description": "Pasto is known for its beautiful surroundings in the Andes, its rich indigenous culture, and the impressive Black and White Carnival."
+    },
+    {
+        "name": "Valledupar",
+        "country": "Colombia",
+        "rate": 7.9,
+        "description": "Valledupar is renowned for its vallenato music and folklore, and it is an important cultural and commercial center in the Cesar department."
+    },
+    {
+        "name": "La Jagua de Ibirico",
+        "country": "Colombia",
+        "rate": 7.4,
+        "description": "La Jagua de Ibirico is a key city in the Cesar department, known for its coal mining industry and agricultural activities."
+    },
+    {
+        "name": "Bosconia",
+        "country": "Colombia",
+        "rate": 7.2,
+        "description": "Bosconia is a city in Cesar known for its agricultural production and strategic location along major transport routes."
+    },
+    {
+        "name": "Quibdo",
+        "country": "Colombia",
+        "rate": 7.7,
+        "description": "Quibdo is the capital of the Choco department, known for its Afro-Colombian heritage, rich biodiversity, and cultural festivals."
+    },
+    {
+        "name": "Istmina",
+        "country": "Colombia",
+        "rate": 7.1,
+        "description": "Istmina is a municipality in Choco with a focus on agriculture and traditional Afro-Colombian culture."
+    },
+    {
+        "name": "El Carmen de Atrato",
+        "country": "Colombia",
+        "rate": 6.8,
+        "description": "El Carmen de Atrato is known for its lush landscapes and its role in the agricultural and cultural sectors of Choco."
+    },
+    {
+        "name": "Monteria",
+        "country": "Colombia",
+        "rate": 8.1,
+        "description": "Monteria is a vibrant city in Cordoba known for its cattle ranching, festivals, and its role as an economic center in the region."
+    },
+    {
+        "name": "Planeta Rica",
+        "country": "Colombia",
+        "rate": 7.4,
+        "description": "Planeta Rica is known for its agricultural production and is a significant town in Cordoba's rural economy."
+    },
+    {
+        "name": "Lorica",
+        "country": "Colombia",
+        "rate": 7.2,
+        "description": "Lorica is recognized for its historical architecture and its role as a commercial hub in Cordoba."
+    },
+    {
+        "name": "Zipaquira",
+        "country": "Colombia",
+        "rate": 8.2,
+        "description": "Zipaquira is famous for its Salt Cathedral, a unique underground church carved from salt, and its rich colonial history."
+    },
+    {
+        "name": "Chia",
+        "country": "Colombia",
+        "rate": 7.9,
+        "description": "Chia is a growing town near Bogota known for its historical sites, cultural events, and as a suburban area with vibrant economic activity."
+    },
+    {
+        "name": "Soacha",
+        "country": "Colombia",
+        "rate": 7.5,
+        "description": "Soacha is a large city close to Bogota, known for its role as a residential and commercial area with significant urban development."
+    },
+    {
+        "name": "Inirida",
+        "country": "Colombia",
+        "rate": 7.2,
+        "description": "Inirida is the capital of the Guainia department, known for its unique location at the confluence of the Inirida and Guainia rivers and its rich indigenous culture."
+    },
+    {
+        "name": "San Felipe",
+        "country": "Colombia",
+        "rate": 6.9,
+        "description": "San Felipe is a town in Guainia known for its natural beauty and remote location, offering a glimpse into the region's indigenous traditions."
+    },
+    {
+        "name": "Pacoa",
+        "country": "Colombia",
+        "rate": 6.7,
+        "description": "Pacoa is a small town in Guainia with a focus on community life and local customs, set in a region known for its lush landscapes."
+    },
+    {
+        "name": "San Jose del Guaviare",
+        "country": "Colombia",
+        "rate": 7.3,
+        "description": "San Jose del Guaviare is the capital of the Guaviare department, recognized for its biodiversity, rivers, and the nearby ancient rock formations known as the ‘Mesetas’."
+    },
+    {
+        "name": "Calamar",
+        "country": "Colombia",
+        "rate": 7.1,
+        "description": "Calamar is a town in Guaviare known for its agricultural activities and its role as a gateway to the region's natural attractions."
+    },
+    {
+        "name": "El Retorno",
+        "country": "Colombia",
+        "rate": 6.8,
+        "description": "El Retorno is a municipality in Guaviare, notable for its rural charm and growing importance in local agriculture."
+    },
+    {
+        "name": "Neiva",
+        "country": "Colombia",
+        "rate": 8.0,
+        "description": "Neiva is the capital of the Huila department, known for its warm climate, cultural festivals, and as a hub for coffee production."
+    },
+    {
+        "name": "Pitalito",
+        "country": "Colombia",
+        "rate": 7.7,
+        "description": "Pitalito is a city in Huila, recognized for its coffee plantations, local markets, and role as a commercial center in the region."
+    },
+    {
+        "name": "Garzon",
+        "country": "Colombia",
+        "rate": 7.4,
+        "description": "Garzon is known for its agricultural contributions, particularly in coffee, and its picturesque setting in the Huila department."
+    },
+    {
+        "name": "Riohacha",
+        "country": "Colombia",
+        "rate": 8.2,
+        "description": "Riohacha is the capital of La Guajira, famous for its stunning Caribbean coastline, Wayuu culture, and vibrant local markets."
+    },
+    {
+        "name": "Maicao",
+        "country": "Colombia",
+        "rate": 7.6,
+        "description": "Maicao is a town in La Guajira known for its commercial activity, diverse population, and role as a trading hub with Venezuela."
+    },
+    {
+        "name": "Uribia",
+        "country": "Colombia",
+        "rate": 7.3,
+        "description": "Uribia is recognized for its Wayuu culture and proximity to natural attractions in La Guajira, serving as a key cultural center in the region."
+    },
+    {
+        "name": "Santa Marta",
+        "country": "Colombia",
+        "rate": 8.5,
+        "description": "Santa Marta is a port city on the Caribbean coast, known for its beautiful beaches, the nearby Tayrona National Park, and its colonial history."
+    },
+    {
+        "name": "Cienaga",
+        "country": "Colombia",
+        "rate": 7.8,
+        "description": "Cienaga is a town in Magdalena known for its historical significance, traditional architecture, and role as a center for local agriculture."
+    },
+    {
+        "name": "Villavicencio",
+        "country": "Colombia",
+        "rate": 8.0,
+        "description": "Villavicencio is the capital of Meta, known for its vibrant culture, proximity to the Llanos region, and its role as a commercial hub in the area."
+    },
+    {
+        "name": "Acacias",
+        "country": "Colombia",
+        "rate": 7.5,
+        "description": "Acacias is a city in Meta recognized for its agricultural production, especially in the cultivation of crops like rice and oil palm."
+    },
+    {
+        "name": "Cumaral",
+        "country": "Colombia",
+        "rate": 7.2,
+        "description": "Cumaral is a town in Meta with a focus on agriculture and local industry, offering a glimpse into the region's rural life."
+    },
+    {
+        "name": "Tumaco",
+        "country": "Colombia",
+        "rate": 7.8,
+        "description": "Tumaco is a coastal city in Nariño with a vibrant Afro-Colombian culture, beautiful beaches, and a significant port."
+    },
+    {
+        "name": "Ipiales",
+        "country": "Colombia",
+        "rate": 7.6,
+        "description": "Ipiales is known for its historical significance, being a key stop on the route to the border with Ecuador and home to the impressive Las Lajas Sanctuary."
+    },
+    {
+        "name": "Ocaña",
+        "country": "Colombia",
+        "rate": 7.7,
+        "description": "Ocaña is a city in Norte de Santander known for its colonial architecture, historical significance, and local cultural traditions."
+    },
+    {
+        "name": "Pamplona",
+        "country": "Colombia",
+        "rate": 7.4,
+        "description": "Pamplona is a historic town in Norte de Santander with well-preserved colonial buildings and a rich cultural heritage."
+    },
+    {
+        "name": "Mocoa",
+        "country": "Colombia",
+        "rate": 7.9,
+        "description": "Mocoa is the capital of Putumayo, known for its lush landscapes, natural beauty, and role as a gateway to the Amazonian region."
+    },
+    {
+        "name": "Puerto Asis",
+        "country": "Colombia",
+        "rate": 7.6,
+        "description": "Puerto Asis is a city in Putumayo known for its economic activities related to agriculture and its access to the Putumayo River."
+    },
+    {
+        "name": "La Hormiga",
+        "country": "Colombia",
+        "rate": 7.3,
+        "description": "La Hormiga is a town in Putumayo with a focus on agriculture and local commerce, serving as a center for the surrounding rural areas."
+    },
+    {
+        "name": "Manizales",
+        "country": "Colombia",
+        "rate": 7.8,
+        "description": "Manizales is a city in Quindio famous for its coffee industry, educational institutions, and its location in the Coffee Triangle."
+    },
+    {
+        "name": "Salento",
+        "country": "Colombia",
+        "rate": 7.6,
+        "description": "Salento is a charming town in Quindio known for its picturesque streets, coffee farms, and stunning views of the Andes mountains."
+    },
+    {
+        "name": "Manizales",
+        "country": "Colombia",
+        "rate": 7.8,
+        "description": "Manizales is a major city in Risaralda famous for its education, coffee production, and scenic mountainous views."
+    },
+    {
+        "name": "Dosquebradas",
+        "country": "Colombia",
+        "rate": 7.5,
+        "description": "Dosquebradas is a city in Risaralda known for its industrial activity, commercial growth, and proximity to Pereira."
+    },
+    {
+        "name": "San Andres",
+        "country": "Colombia",
+        "rate": 9.0,
+        "description": "San Andres is a Caribbean island famous for its stunning beaches, turquoise waters, and vibrant cultural blend of Afro-Caribbean influences."
+    },
+    {
+        "name": "Providencia",
+        "country": "Colombia",
+        "rate": 8.7,
+        "description": "Providencia is an island in the Caribbean known for its pristine beaches, rich marine life, and relaxed island atmosphere."
+    },
+    {
+        "name": "Bucaramanga",
+        "country": "Colombia",
+        "rate": 8.0,
+        "description": "Bucaramanga is the capital of Santander, recognized for its pleasant climate, green parks, and thriving commercial sector."
+    },
+    {
+        "name": "Cucuta",
+        "country": "Colombia",
+        "rate": 7.7,
+        "description": "Cucuta is a major city in Santander, known for its role as a commercial hub and its proximity to the Venezuelan border."
+    },
+    {
+        "name": "San Gil",
+        "country": "Colombia",
+        "rate": 7.5,
+        "description": "San Gil is a city in Santander known for its adventure tourism, including activities such as rafting and paragliding."
+    },
+    {
+        "name": "Sincelejo",
+        "country": "Colombia",
+        "rate": 7.8,
+        "description": "Sincelejo is the capital of Sucre, known for its cultural heritage, lively festivals, and role as a commercial center in the region."
+    },
+    {
+        "name": "Corozal",
+        "country": "Colombia",
+        "rate": 7.4,
+        "description": "Corozal is a municipality in Sucre with a focus on agriculture, known for its local markets and cultural events."
+    },
+    {
+        "name": "Monteria",
+        "country": "Colombia",
+        "rate": 7.2,
+        "description": "Monteria is a city in Sucre known for its strategic location on the Sinu River, agricultural production, and growing urban development."
+    },
+    {
+        "name": "Ibague",
+        "country": "Colombia",
+        "rate": 8.2,
+        "description": "Ibague is the capital of Tolima, known for its cultural events, pleasant climate, and as a center for music and arts in Colombia."
+    },
+    {
+        "name": "Espinal",
+        "country": "Colombia",
+        "rate": 7.6,
+        "description": "Espinal is a city in Tolima with a focus on agriculture, particularly rice cultivation, and a lively local culture."
+    },
+    {
+        "name": "Honda",
+        "country": "Colombia",
+        "rate": 7.4,
+        "description": "Honda is a historic town in Tolima known for its colonial architecture, role as a river port, and rich cultural heritage."
+    },
+    {
+        "name": "Cali",
+        "country": "Colombia",
+        "rate": 8.0,
+        "description": "Cali, known as the salsa capital of the world, is famous for its vibrant nightlife, Afro-Colombian culture, and rich musical traditions."
+    },
+    {
+        "name": "Palmira",
+        "country": "Colombia",
+        "rate": 7.5,
+        "description": "Palmira is a city in Valle del Cauca, known for its agricultural production, especially sugarcane, and its role as a major economic center in the region."
+    },
+    {
+        "name": "Buenaventura",
+        "country": "Colombia",
+        "rate": 7.2,
+        "description": "Buenaventura is a port city on the Pacific coast, known for its strategic importance in maritime trade and its cultural diversity."
+    },
+    {
+        "name": "Mitu",
+        "country": "Colombia",
+        "rate": 7.1,
+        "description": "Mitu is a town in Vaupes, known for its lush rainforest, indigenous cultures, and remote location along the Vaupes River."
+    },
+    {
+        "name": "Caruru",
+        "country": "Colombia",
+        "rate": 6.9,
+        "description": "Caruru is a small town in Vaupes, recognized for its natural beauty, remote setting, and its role in regional indigenous communities."
+    },
+    {
+        "name": "Tucunare",
+        "country": "Colombia",
+        "rate": 6.7,
+        "description": "Tucunare is a town in Vaupes with a focus on sustainable practices, local culture, and its scenic surroundings."
+    },
+    {
+        "name": "Puerto Carreño",
+        "country": "Colombia",
+        "rate": 7.3,
+        "description": "Puerto Carreño is the capital of Vichada, known for its location on the Orinoco River, its role as a regional trade center, and its natural landscapes."
+    },
+    {
+        "name": "Cumaribo",
+        "country": "Colombia",
+        "rate": 6.9,
+        "description": "Cumaribo is a town in Vichada, notable for its remote location, traditional agriculture, and cultural connections with indigenous communities."
+    },
+    {
+        "name": "La Primavera",
+        "country": "Colombia",
+        "rate": 6.8,
+        "description": "La Primavera is a municipality in Vichada known for its agricultural activities, local markets, and natural surroundings."
+    }
+]
