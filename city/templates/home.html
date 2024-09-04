@@ -21,15 +21,17 @@
     <div class="row row-cols-1 row-cols-md-3 g-4">
       {% for city in cities %}
         <div v-for="city in cities" class="col">
-          <div class="card">
-            <img class="card-img-top" src="{{ city.image.url }}" />
-            <div class="card-body">
-              <h5 class="card-title">{{ forloop.counter }}. {{ city.name }}</h5>
-                <p class="card-text"><strong>Country:</strong> {{ city.country }}</p>
-                <p class="card-text"><strong>Rate:</strong> {{ city.rate }}</p>
-                <p class="card-text">{{ city.description }}</p>
+          <a href="{% url 'city_reviews' city.name%}">
+            <div class="card">
+              <img class="card-img-top" src="{{ city.image.url }}" />
+              <div class="card-body">
+                <h5 class="card-title">{{ forloop.counter }}. {{ city.name }}</h5>
+                  <p class="card-text"><strong>Country:</strong> {{ city.country }}</p>
+                  <p class="card-text"><strong>Rate:</strong> {{ city.rate }}</p>
+                  <p class="card-text">{{ city.description }}</p>
+              </div>
             </div>
-          </div>
+          </a>
         </div>
       {% endfor %}
     </div>
