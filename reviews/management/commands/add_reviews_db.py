@@ -26,3 +26,4 @@ class Command(BaseCommand):
                     safety_rate=review['safety_rate'],
                     weather_rate=review['weather_rate'],
                 )
+                

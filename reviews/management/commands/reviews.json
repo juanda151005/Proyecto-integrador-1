@@ -7278,5 +7278,2885 @@
         "costs_rate": 7,
         "safety_rate": 8,
         "weather_rate": 7
+    },
+    {
+        "city": "Guayaquil",
+        "general_review": "Guayaquil is Ecuador's largest city and a bustling port, known for its vibrant street life, modern developments, and rich history. The Malecón 2000 is a highlight for tourists.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 7,
+        "costs_rate": 5,
+        "safety_rate": 6,
+        "weather_rate": 8
+    },
+    {
+        "city": "Guayaquil",
+        "general_review": "As a major economic hub, Guayaquil offers a mix of modernity and history. While it has several tourist spots, some areas may feel crowded or less safe.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 8,
+        "costs_rate": 6,
+        "safety_rate": 5,
+        "weather_rate": 7
+    },
+    {
+        "city": "Guayaquil",
+        "general_review": "Guayaquil is a lively city with growing infrastructure and a vibrant nightlife, though its hot and humid weather might not appeal to everyone.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 4,
+        "weather_rate": 5
+    },
+    {
+        "city": "Guayaquil",
+        "general_review": "A city with a rich cultural mix, Guayaquil is evolving fast but still faces issues like safety concerns and heavy traffic.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 5,
+        "costs_rate": 8,
+        "safety_rate": 3,
+        "weather_rate": 6
+    },
+    {
+        "city": "Durán",
+        "general_review": "Durán, located across the river from Guayaquil, is a growing suburban area. Though not a major tourist destination, it offers proximity to Guayaquil’s attractions.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 5,
+        "weather_rate": 7
+    },
+    {
+        "city": "Durán",
+        "general_review": "Durán serves as a quieter alternative to Guayaquil, with fewer tourist spots but offering a more relaxed pace of life.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 6,
+        "weather_rate": 6
+    },
+    {
+        "city": "Durán",
+        "general_review": "Durán is mainly residential, offering access to Guayaquil’s amenities. It's not a major attraction but serves as a calm, affordable place to live.",
+        "touristic_places_rate": 2,
+        "history_and_culture_rate": 3,
+        "gastronomy_rate": 4,
+        "costs_rate": 8,
+        "safety_rate": 7,
+        "weather_rate": 5
+    },
+    {
+        "city": "Durán",
+        "general_review": "Durán lacks significant tourist appeal but is an affordable and quieter place for those who prefer to stay near Guayaquil without the city’s hustle.",
+        "touristic_places_rate": 1,
+        "history_and_culture_rate": 2,
+        "gastronomy_rate": 3,
+        "costs_rate": 9,
+        "safety_rate": 6,
+        "weather_rate": 4
+    },
+    {
+        "city": "Milagro",
+        "general_review": "Milagro is a growing city with a focus on agriculture, particularly sugarcane. It’s a peaceful place with a local vibe and access to the countryside.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Milagro",
+        "general_review": "Known for its sugarcane industry, Milagro is a quieter city that offers a blend of rural and urban life. There are few major attractions, but it’s a peaceful place.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 5
+    },
+    {
+        "city": "Milagro",
+        "general_review": "Milagro’s charm lies in its agricultural roots and small-town feel. It’s not a bustling tourist spot, but it’s a good place for a relaxing experience.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 8,
+        "safety_rate": 5,
+        "weather_rate": 4
+    },
+    {
+        "city": "Milagro",
+        "general_review": "Milagro is a peaceful town known for sugarcane production, offering an affordable lifestyle but with limited cultural and tourist activities.",
+        "touristic_places_rate": 2,
+        "history_and_culture_rate": 3,
+        "gastronomy_rate": 4,
+        "costs_rate": 9,
+        "safety_rate": 4,
+        "weather_rate": 5
+    },
+    {
+        "city": "Esmeraldas",
+        "general_review": "Esmeraldas is a coastal city known for its beautiful beaches and Afro-Ecuadorian culture. It’s a vibrant place with a strong connection to its cultural roots.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 7,
+        "costs_rate": 5,
+        "safety_rate": 5,
+        "weather_rate": 9
+    },
+    {
+        "city": "Esmeraldas",
+        "general_review": "Esmeraldas offers stunning beaches and a rich Afro-Ecuadorian cultural experience. It’s a popular tourist spot, though safety concerns can sometimes be an issue.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 6,
+        "costs_rate": 6,
+        "safety_rate": 4,
+        "weather_rate": 8
+    },
+    {
+        "city": "Esmeraldas",
+        "general_review": "Esmeraldas is known for its coastal beauty and cultural heritage. It’s a great destination for beach lovers but has challenges with infrastructure and safety.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 3,
+        "weather_rate": 7
+    },
+    {
+        "city": "Esmeraldas",
+        "general_review": "Esmeraldas is a coastal gem with beautiful beaches and a strong cultural identity, though it faces some issues with infrastructure and security.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 4,
+        "costs_rate": 8,
+        "safety_rate": 3,
+        "weather_rate": 6
+    },
+    {
+        "city": "Atacames",
+        "general_review": "Atacames is a popular beach destination on Ecuador’s Pacific coast, known for its lively nightlife and beautiful sandy shores.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 7,
+        "costs_rate": 5,
+        "safety_rate": 6,
+        "weather_rate": 9
+    },
+    {
+        "city": "Atacames",
+        "general_review": "A lively beach town, Atacames offers a mix of local culture and a laid-back vibe. It’s perfect for a beach getaway but can get crowded during peak seasons.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 3,
+        "gastronomy_rate": 6,
+        "costs_rate": 6,
+        "safety_rate": 5,
+        "weather_rate": 8
+    },
+    {
+        "city": "Atacames",
+        "general_review": "Atacames is famous for its vibrant nightlife and stunning beaches. However, it can feel a bit over-commercialized at times.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 2,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 4,
+        "weather_rate": 8
+    },
+    {
+        "city": "Atacames",
+        "general_review": "Atacames offers a fantastic beach experience, but infrastructure and safety can be a concern, especially during busy tourist seasons.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 3,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 3,
+        "weather_rate": 9
+    },
+    {
+        "city": "San Lorenzo",
+        "general_review": "San Lorenzo is a small coastal town known for its proximity to the mangroves and the cultural influence of its Afro-Ecuadorian population.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 5,
+        "weather_rate": 7
+    },
+    {
+        "city": "San Lorenzo",
+        "general_review": "San Lorenzo is a lesser-known destination with beautiful natural surroundings, including mangroves and pristine beaches, but it’s still relatively undeveloped for tourism.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 4,
+        "weather_rate": 6
+    },
+    {
+        "city": "San Lorenzo",
+        "general_review": "A quiet town on Ecuador's northern coast, San Lorenzo is ideal for those looking to experience local life and explore mangroves, though there are limited amenities for tourists.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 5,
+        "weather_rate": 6
+    },
+    {
+        "city": "San Lorenzo",
+        "general_review": "San Lorenzo has an interesting cultural heritage and natural beauty but lacks infrastructure and tourist attractions compared to larger cities.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 4,
+        "costs_rate": 8,
+        "safety_rate": 4,
+        "weather_rate": 7
+    },
+    {
+        "city": "Portoviejo",
+        "general_review": "Portoviejo, the capital of Manabí, is known for its cultural importance and history. The city is a gateway to nearby beaches and natural attractions.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 6,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Portoviejo",
+        "general_review": "As a historical city, Portoviejo offers a mix of colonial architecture and modern amenities. It’s more of a cultural destination than a tourist hotspot.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 5
+    },
+    {
+        "city": "Portoviejo",
+        "general_review": "Portoviejo is a calm city with rich history but limited tourist attractions. It's a good place for those interested in local culture and nearby beaches.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 8,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "Portoviejo",
+        "general_review": "Portoviejo offers a blend of history and modernity. It’s not a major tourist draw but provides a good base for exploring the region’s beaches and natural sites.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 4,
+        "costs_rate": 7,
+        "safety_rate": 5,
+        "weather_rate": 6
+    },
+    {
+        "city": "Manta",
+        "general_review": "Manta is a bustling port city with beautiful beaches, known for its seafood and lively atmosphere. It’s a popular destination for both tourists and locals.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 8,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Manta",
+        "general_review": "As one of Ecuador’s main coastal cities, Manta offers a great beach scene, delicious seafood, and a lively atmosphere, though it's more commercial than cultural.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "Manta",
+        "general_review": "Manta is a busy city with an emphasis on commerce and its port, but it still manages to attract tourists with its beaches and relaxed coastal vibe.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 5,
+        "weather_rate": 8
+    },
+    {
+        "city": "Manta",
+        "general_review": "Manta offers a mix of industrial activity and beach life. It’s ideal for seafood lovers and those looking for a relaxed beach experience, though it can feel very commercial.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 8,
+        "safety_rate": 5,
+        "weather_rate": 7
+    },
+    {
+        "city": "Chone",
+        "general_review": "Chone is a small agricultural town in Ecuador, known for its cattle ranching and relaxed lifestyle. It’s a peaceful destination, ideal for those looking to escape city life.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "Chone",
+        "general_review": "A quiet town, Chone offers a glimpse into rural Ecuadorian life. While it’s not a tourist hub, its peaceful atmosphere makes it a good spot for relaxation.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 8,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Chone",
+        "general_review": "Chone is a great place for those who enjoy nature and a slower pace of life. Its main attraction is the surrounding countryside and agriculture-based activities.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 6,
+        "costs_rate": 6,
+        "safety_rate": 5,
+        "weather_rate": 8
+    },
+    {
+        "city": "Chone",
+        "general_review": "Chone is a peaceful town with limited tourist attractions but offers a real look into the agricultural heart of Ecuador.",
+        "touristic_places_rate": 2,
+        "history_and_culture_rate": 3,
+        "gastronomy_rate": 4,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "Babahoyo",
+        "general_review": "Babahoyo, located near the river, is a gateway to the agricultural lands of Ecuador. It’s known for its rice and banana plantations and offers a laid-back atmosphere.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "Babahoyo",
+        "general_review": "A key agricultural hub, Babahoyo offers a relaxing riverside environment. It’s not known for tourism but gives visitors a taste of Ecuador’s rural life.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 7,
+        "costs_rate": 7,
+        "safety_rate": 5,
+        "weather_rate": 8
+    },
+    {
+        "city": "Babahoyo",
+        "general_review": "Babahoyo is a bustling agricultural city with a focus on farming and rural industries. It has limited tourist attractions but is an essential stop for understanding Ecuador’s economy.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 4,
+        "weather_rate": 7
+    },
+    {
+        "city": "Babahoyo",
+        "general_review": "Babahoyo offers a mix of rural charm and agricultural industry. While it's not a tourist destination, its riverside setting and calm vibe can be appealing.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 5,
+        "weather_rate": 8
+    },
+    {
+        "city": "Quevedo",
+        "general_review": "Quevedo is a vibrant agricultural town in Ecuador, known for its banana and cocoa plantations. It’s a lively, growing city with a strong connection to farming.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 5,
+        "weather_rate": 8
+    },
+    {
+        "city": "Quevedo",
+        "general_review": "A key center for banana and cocoa production, Quevedo is a bustling town with a mix of rural charm and urban growth. It's not a tourist hot spot, but an important agricultural center.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "Quevedo",
+        "general_review": "Quevedo is a growing city with strong ties to Ecuador’s agricultural industry. It’s not touristy, but it has a lively atmosphere and offers a taste of rural Ecuadorian life.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 5,
+        "costs_rate": 8,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "Quevedo",
+        "general_review": "Quevedo is known for its agricultural importance, especially in banana and cocoa production. It offers a glimpse into Ecuador’s rural economy, though it has few tourist attractions.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 5,
+        "weather_rate": 8
+    },
+    {
+        "city": "Ventanas",
+        "general_review": "Ventanas is a small town known for its agriculture and local markets. It’s a quiet place, perfect for those interested in rural life in Ecuador.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "Ventanas",
+        "general_review": "A quiet agricultural town, Ventanas offers a peaceful escape from the bustling cities. It’s known for its local markets and agricultural surroundings.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 5,
+        "costs_rate": 8,
+        "safety_rate": 5,
+        "weather_rate": 7
+    },
+    {
+        "city": "Ventanas",
+        "general_review": "Ventanas is a small, laid-back town with an economy centered around agriculture. While it doesn’t have many tourist attractions, it offers a glimpse into local life.",
+        "touristic_places_rate": 2,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 6,
+        "costs_rate": 6,
+        "safety_rate": 5,
+        "weather_rate": 8
+    },
+    {
+        "city": "Ventanas",
+        "general_review": "A town with strong agricultural roots, Ventanas provides a calm, peaceful environment for those seeking to experience rural Ecuadorian life.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "Machala",
+        "general_review": "Machala, the 'Banana Capital of the World', is a key agricultural city in Ecuador. It’s a bustling port town with a growing economy, though not known for its tourist attractions.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 4,
+        "weather_rate": 8
+    },
+    {
+        "city": "Machala",
+        "general_review": "A commercial hub, Machala offers visitors a taste of Ecuador’s agricultural power. It’s more of a business city, with limited tourism appeal, but vibrant markets and ports.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 5,
+        "weather_rate": 7
+    },
+    {
+        "city": "Machala",
+        "general_review": "Machala’s importance lies in its agricultural production and exports. Tourists will find limited attractions, but it is a key destination for business and trade.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 4,
+        "weather_rate": 8
+    },
+    {
+        "city": "Machala",
+        "general_review": "A bustling city driven by agriculture, especially bananas, Machala isn’t a tourist hotspot but offers a vibrant atmosphere for those interested in Ecuador’s economic life.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 6,
+        "costs_rate": 8,
+        "safety_rate": 5,
+        "weather_rate": 7
+    },
+    {
+        "city": "Pasaje",
+        "general_review": "Pasaje is a small, peaceful town surrounded by agricultural fields. It’s ideal for those looking for a quiet escape and to experience local Ecuadorian life.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 8
+    },
+    {
+        "city": "Pasaje",
+        "general_review": "Pasaje offers visitors a glimpse into rural Ecuador. It’s a calm town with few tourist attractions but provides a peaceful environment for those seeking relaxation.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 7,
+        "costs_rate": 8,
+        "safety_rate": 5,
+        "weather_rate": 7
+    },
+    {
+        "city": "Pasaje",
+        "general_review": "Pasaje is a quiet agricultural town. Though not a tourist destination, its surrounding landscapes and slow pace of life offer a relaxing experience for visitors.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 5,
+        "weather_rate": 7
+    },
+    {
+        "city": "Pasaje",
+        "general_review": "This small agricultural town is not a top tourist attraction but offers a relaxed atmosphere. Pasaje is perfect for those wanting to immerse themselves in rural Ecuador.",
+        "touristic_places_rate": 2,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 6,
+        "costs_rate": 8,
+        "safety_rate": 6,
+        "weather_rate": 8
+    },
+    {
+        "city": "Santa Rosa",
+        "general_review": "Santa Rosa is a small town known for its shrimp production and peaceful vibe. Though not a big tourist destination, it’s great for exploring Ecuador’s seafood industry.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 5,
+        "weather_rate": 7
+    },
+    {
+        "city": "Santa Rosa",
+        "general_review": "A town famous for shrimp farming, Santa Rosa has a calm coastal charm. There’s not much to see for tourists, but it’s an interesting place to visit if you enjoy seafood.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 8,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 6
+    },
+    {
+        "city": "Santa Rosa",
+        "general_review": "Santa Rosa is a sleepy town centered around shrimp production. It’s off the tourist path but has a unique local character and a peaceful vibe.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 7,
+        "costs_rate": 8,
+        "safety_rate": 6,
+        "weather_rate": 8
+    },
+    {
+        "city": "Santa Rosa",
+        "general_review": "Known for its seafood, especially shrimp, Santa Rosa offers a relaxing, low-key destination. It’s a small town with a strong local flavor and peaceful atmosphere.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 8,
+        "costs_rate": 7,
+        "safety_rate": 5,
+        "weather_rate": 7
+    },
+    {
+        "city": "Santa Elena",
+        "general_review": "Santa Elena, located on the Ecuadorian coast, offers beautiful beaches and a laid-back atmosphere. It’s a great place for sunbathing and relaxing near the ocean.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 9
+    },
+    {
+        "city": "Santa Elena",
+        "general_review": "A coastal town with stunning beaches, Santa Elena is a perfect spot for beach lovers. It’s quieter than nearby resort towns but offers plenty of natural beauty.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 7,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 9
+    },
+    {
+        "city": "Santa Elena",
+        "general_review": "Santa Elena is known for its beaches and coastal charm. It’s a great destination for a beach vacation, offering a quieter alternative to some of Ecuador’s larger coastal towns.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Santa Elena",
+        "general_review": "Santa Elena offers pristine beaches and a peaceful environment. It’s perfect for tourists looking to enjoy Ecuador’s coastal beauty without the crowds.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 9
+    },
+    {
+        "city": "La Libertad",
+        "general_review": "La Libertad is a small coastal town known for its fishing industry and peaceful beaches. While it’s not a major tourist destination, it offers a quiet escape by the sea.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 8
+    },
+    {
+        "city": "La Libertad",
+        "general_review": "A quiet town with a local feel, La Libertad is perfect for those looking to relax away from the crowds. It’s a place to experience Ecuador’s coastal lifestyle.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 5,
+        "weather_rate": 9
+    },
+    {
+        "city": "La Libertad",
+        "general_review": "La Libertad offers beautiful coastal views and a laid-back atmosphere. It’s a great place for a peaceful retreat, though not much for those seeking tourist attractions.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 8,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "La Libertad",
+        "general_review": "With its beautiful beaches and quiet charm, La Libertad is ideal for those wanting to experience the tranquility of Ecuador’s coast without the tourist rush.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 9
+    },
+    {
+        "city": "Salinas",
+        "general_review": "Salinas is one of Ecuador’s most popular beach destinations, known for its vibrant nightlife and water sports. It’s a perfect spot for beach lovers and thrill-seekers.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 8,
+        "weather_rate": 9
+    },
+    {
+        "city": "Salinas",
+        "general_review": "With its stunning beaches, luxury resorts, and energetic nightlife, Salinas is a top destination for both locals and tourists looking to enjoy Ecuador’s coast.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 8,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 9
+    },
+    {
+        "city": "Salinas",
+        "general_review": "Salinas is a bustling beach town with something for everyone—from sunbathing to jet skiing. It’s a perfect vacation spot for families and adventure seekers.",
+        "touristic_places_rate": 10,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Salinas",
+        "general_review": "Known as the Miami of Ecuador, Salinas offers high-end resorts, water activities, and a vibrant nightlife. It’s a hotspot for both local and international visitors.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 7,
+        "weather_rate": 9
+    },
+    {
+        "city": "Santo Domingo",
+        "general_review": "Santo Domingo is a rapidly growing city with a strong agricultural industry. It’s a bustling hub for commerce and a gateway to explore Ecuador’s rainforest region.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 5,
+        "weather_rate": 7
+    },
+    {
+        "city": "Santo Domingo",
+        "general_review": "A commercial hub surrounded by rainforest, Santo Domingo is a gateway to the Amazon and offers a mix of urban life and nature. It’s not a major tourist city but has its charms.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "Santo Domingo",
+        "general_review": "Known for its agriculture and proximity to the rainforest, Santo Domingo is a rapidly developing city. It’s a good base for exploring the surrounding natural wonders.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 5,
+        "weather_rate": 8
+    },
+    {
+        "city": "Santo Domingo",
+        "general_review": "Santo Domingo is a key agricultural center in Ecuador, with a growing population and bustling economy. It’s a vibrant city, though not typically a top tourist destination.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 5,
+        "weather_rate": 6
+    },
+    {
+        "city": "La Concordia",
+        "general_review": "La Concordia is a small, peaceful town with a rural atmosphere. It’s surrounded by lush farmland and is ideal for those looking to experience the quiet side of Ecuador.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "La Concordia",
+        "general_review": "A charming agricultural town, La Concordia offers a calm and laid-back atmosphere. It’s a place for those wanting to experience Ecuadorian country life.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "La Concordia",
+        "general_review": "Surrounded by farmland, La Concordia is a quiet town with a relaxed atmosphere. It’s a place for those looking to slow down and enjoy the countryside.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 6,
+        "costs_rate": 8,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "La Concordia",
+        "general_review": "La Concordia offers a peaceful rural environment. Although it’s not a major tourist destination, it’s perfect for those who want to enjoy Ecuador’s countryside in tranquility.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 8
+    },
+    {
+        "city": "Alluriquín",
+        "general_review": "Alluriquín is a small rural town surrounded by beautiful nature, offering a peaceful retreat. It’s a great place for outdoor activities and enjoying the scenic landscapes.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 9
+    },
+    {
+        "city": "Alluriquín",
+        "general_review": "A quiet and remote town, Alluriquín is perfect for those looking to escape the busy cities and connect with nature. It’s known for its rivers and peaceful atmosphere.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 9,
+        "weather_rate": 8
+    },
+    {
+        "city": "Alluriquín",
+        "general_review": "Located near rivers and forests, Alluriquín is a small town known for its natural beauty. It's a great spot for those looking to explore Ecuador's outdoor wonders.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 3,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "Alluriquín",
+        "general_review": "Alluriquín is a hidden gem for nature lovers, offering tranquility and scenic views. It’s ideal for those who enjoy rural tourism and outdoor adventures.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 8,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Quito",
+        "general_review": "As the capital of Ecuador, Quito is a UNESCO World Heritage city known for its stunning colonial architecture and vibrant cultural scene.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 10,
+        "gastronomy_rate": 8,
+        "costs_rate": 6,
+        "safety_rate": 5,
+        "weather_rate": 7
+    },
+    {
+        "city": "Quito",
+        "general_review": "With its rich history and breathtaking views, Quito is a city full of charm. Its altitude and stunning landscapes make it a unique destination for travelers.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 7,
+        "costs_rate": 5,
+        "safety_rate": 6,
+        "weather_rate": 6
+    },
+    {
+        "city": "Quito",
+        "general_review": "Quito offers a rich cultural experience, from its historic Old Town to the stunning vistas from its many hills. It’s an essential destination for history buffs.",
+        "touristic_places_rate": 10,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 8,
+        "costs_rate": 7,
+        "safety_rate": 5,
+        "weather_rate": 8
+    },
+    {
+        "city": "Quito",
+        "general_review": "Known for its colonial charm and breathtaking views of the Andes, Quito is a city with deep cultural roots. It’s an excellent destination for both history lovers and nature enthusiasts.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 10,
+        "gastronomy_rate": 7,
+        "costs_rate": 5,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "Cayambe",
+        "general_review": "Cayambe is a peaceful town known for its dairy farms and proximity to the Cayambe volcano. It’s a great spot for hiking and exploring the Ecuadorian highlands.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Cayambe",
+        "general_review": "Famous for its volcano and traditional cheese production, Cayambe offers visitors a taste of rural Ecuador with its stunning Andean landscapes.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 9,
+        "weather_rate": 5
+    },
+    {
+        "city": "Cayambe",
+        "general_review": "Known for its snow-capped volcano, Cayambe offers beautiful natural scenery and a glimpse into rural Ecuadorian life. It’s a peaceful and scenic destination.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Cayambe",
+        "general_review": "Cayambe, with its cool weather and proximity to nature, is a tranquil escape from the larger cities. The town is also known for its rich agricultural heritage.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 8,
+        "safety_rate": 9,
+        "weather_rate": 5
+    },
+    {
+        "city": "Sangolquí",
+        "general_review": "Located just outside Quito, Sangolquí is a growing town known for its peaceful environment and proximity to Ecuador’s capital. It’s a popular spot for families.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "Sangolquí",
+        "general_review": "A quiet and developing town near Quito, Sangolquí offers a slower pace of life while still being close enough to enjoy the capital’s attractions.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 6,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Sangolquí",
+        "general_review": "Sangolquí is a charming town with a blend of modern and traditional Ecuadorian life. Its proximity to Quito makes it a great place to stay for those who prefer a quieter environment.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 9,
+        "weather_rate": 7
+    },
+    {
+        "city": "Sangolquí",
+        "general_review": "Known for its laid-back atmosphere and local culture, Sangolquí is a peaceful alternative to the hustle of Quito, offering a taste of Ecuadorian suburban life.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Cuenca",
+        "general_review": "Cuenca is a beautiful colonial city known for its well-preserved architecture, cobblestone streets, and vibrant cultural life. It is often considered one of the most charming cities in Ecuador.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 10,
+        "gastronomy_rate": 7,
+        "costs_rate": 5,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "Cuenca",
+        "general_review": "Famous for its colonial charm and rich cultural history, Cuenca is a UNESCO World Heritage Site. It’s a city where history comes alive with its stunning churches and museums.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 6,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Cuenca",
+        "general_review": "Cuenca offers a rich cultural experience, blending old-world charm with modern conveniences. It’s an ideal destination for those who love history and architecture.",
+        "touristic_places_rate": 10,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 8,
+        "costs_rate": 7,
+        "safety_rate": 5,
+        "weather_rate": 8
+    },
+    {
+        "city": "Cuenca",
+        "general_review": "A peaceful and picturesque city, Cuenca is known for its colonial architecture and cultural festivals. Its laid-back atmosphere attracts both tourists and expats.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 6,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Gualaceo",
+        "general_review": "Gualaceo is a small town famous for its traditional handicrafts and beautiful riverfront. It’s a great destination for those looking to experience Ecuadorian culture in a quiet setting.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 5,
+        "costs_rate": 8,
+        "safety_rate": 9,
+        "weather_rate": 7
+    },
+    {
+        "city": "Gualaceo",
+        "general_review": "Known for its picturesque rivers and traditional markets, Gualaceo is a tranquil town with a rich cultural heritage. It’s a lovely stop for visitors exploring the region.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Gualaceo",
+        "general_review": "Gualaceo is a charming town with a strong tradition in textile and leather craftsmanship. It’s an excellent place to experience local Ecuadorian art and culture.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Gualaceo",
+        "general_review": "A quiet town near Cuenca, Gualaceo is known for its natural beauty and relaxed vibe. It’s perfect for those looking to explore rural Ecuador.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 5,
+        "costs_rate": 8,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "Paute",
+        "general_review": "Paute is a peaceful town nestled in the Andes, known for its agricultural production and scenic landscapes. It’s a perfect spot for nature lovers and those seeking tranquility.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 7,
+        "costs_rate": 8,
+        "safety_rate": 9,
+        "weather_rate": 7
+    },
+    {
+        "city": "Paute",
+        "general_review": "Famous for its fruit orchards and beautiful valleys, Paute is a hidden gem in the Ecuadorian highlands. It’s a great escape from the city, offering serenity and scenic views.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Paute",
+        "general_review": "Paute offers breathtaking views of the surrounding valleys and is known for its fertile land. It’s a great place to relax and enjoy the simple pleasures of rural life.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 9,
+        "weather_rate": 6
+    },
+    {
+        "city": "Paute",
+        "general_review": "Paute is a quiet, picturesque town in the Ecuadorian Andes. Known for its friendly locals and agricultural production, it’s a peaceful getaway surrounded by nature.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 8,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "Azogues",
+        "general_review": "Azogues is a small city with a rich history, offering visitors a taste of authentic Ecuadorian culture. It’s known for its beautiful landscapes and historical churches.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Azogues",
+        "general_review": "A quiet town surrounded by hills, Azogues is known for its colonial charm and relaxed atmosphere. It’s an ideal spot for visitors seeking tranquility.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 9,
+        "weather_rate": 6
+    },
+    {
+        "city": "Azogues",
+        "general_review": "Azogues offers a rich blend of history and culture, with its old churches and scenic countryside. It’s a great place to visit for those exploring the region.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Azogues",
+        "general_review": "Nestled in the Ecuadorian highlands, Azogues is a peaceful town known for its historical architecture and beautiful landscapes. A perfect destination for a relaxing getaway.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 5,
+        "costs_rate": 8,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "La Troncal",
+        "general_review": "La Troncal is known for its sugarcane production and offers a laid-back lifestyle. It’s a peaceful place, ideal for those who enjoy rural environments.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 3,
+        "gastronomy_rate": 6,
+        "costs_rate": 8,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "La Troncal",
+        "general_review": "A small town with agricultural roots, La Troncal offers a calm and tranquil atmosphere. It’s not a typical tourist destination, but it has its own charm.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "La Troncal",
+        "general_review": "La Troncal is a quiet and agricultural town, mostly known for its sugarcane plantations. It’s a nice spot for those looking for a break from the busier cities.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "La Troncal",
+        "general_review": "La Troncal is an agricultural hub, famous for its sugar production. The town is small and quiet, with a strong sense of community.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 8,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Biblián",
+        "general_review": "Biblián is a small, picturesque town known for its historical church built on a hillside. It’s a great stop for visitors interested in architecture and religious tourism.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Biblián",
+        "general_review": "A quaint town with a famous hilltop church, Biblián offers a peaceful retreat for visitors. It’s a quiet place with a strong religious and cultural presence.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 5,
+        "costs_rate": 8,
+        "safety_rate": 9,
+        "weather_rate": 5
+    },
+    {
+        "city": "Biblián",
+        "general_review": "Biblián is best known for its impressive church, built into the side of a mountain. The town is small and peaceful, with scenic views of the surrounding valleys.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Biblián",
+        "general_review": "Biblián is a beautiful town with a rich religious history, highlighted by its unique church. It’s a quiet destination that offers stunning views and peaceful surroundings.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 9,
+        "weather_rate": 7
+    },
+    {
+        "city": "Riobamba",
+        "general_review": "Riobamba is known for its historical significance and is considered the birthplace of Ecuadorian independence. It’s a city filled with colonial architecture and surrounded by breathtaking landscapes.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 10,
+        "gastronomy_rate": 8,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 5
+    },
+    {
+        "city": "Riobamba",
+        "general_review": "Surrounded by volcanoes, Riobamba is a city with a rich history and a vibrant market culture. It’s a gateway to some of the most spectacular Andean scenery.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 7,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 6
+    },
+    {
+        "city": "Riobamba",
+        "general_review": "A city with deep historical roots, Riobamba is full of colonial-era buildings and offers great access to the Chimborazo volcano. It’s a must-visit for history buffs and adventurers alike.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 10,
+        "gastronomy_rate": 8,
+        "costs_rate": 6,
+        "safety_rate": 6,
+        "weather_rate": 5
+    },
+    {
+        "city": "Riobamba",
+        "general_review": "Riobamba is a charming city with a mix of history and nature, offering visitors access to both cultural landmarks and outdoor adventures in the Andes.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 7,
+        "costs_rate": 7,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Guano",
+        "general_review": "Guano is a small town with a rich artisanal tradition, famous for its carpets and leather goods. It’s a quiet place to visit and explore local craftsmanship.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 9,
+        "weather_rate": 6
+    },
+    {
+        "city": "Guano",
+        "general_review": "Known for its artisanal products, Guano offers visitors a glimpse into traditional Ecuadorian craftsmanship. It’s a peaceful town surrounded by beautiful landscapes.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 6,
+        "costs_rate": 8,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Guano",
+        "general_review": "Guano is a lovely town famous for its leather and carpet industry. It’s a great stop for those looking to experience Ecuadorian culture and shop for handmade goods.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 9,
+        "weather_rate": 6
+    },
+    {
+        "city": "Guano",
+        "general_review": "Guano is a small and quiet town known for its traditional crafts. It’s a good place for visitors interested in shopping for artisanal products while enjoying a laid-back atmosphere.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 5,
+        "costs_rate": 8,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Alausí",
+        "general_review": "Alausí is a charming town nestled in the mountains, famous for the Nariz del Diablo train ride, which offers stunning views of the Andes.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 5
+    },
+    {
+        "city": "Alausí",
+        "general_review": "Known for its scenic train ride through the Andes, Alausí is a quiet town with beautiful landscapes and a deep connection to Ecuador’s railway history.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Alausí",
+        "general_review": "Alausí offers visitors a glimpse of traditional Ecuadorian life in the mountains, with its famous train ride and picturesque streets.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 6,
+        "costs_rate": 6,
+        "safety_rate": 8,
+        "weather_rate": 5
+    },
+    {
+        "city": "Alausí",
+        "general_review": "This small town is famous for its iconic train ride through the Andes, but it also offers a peaceful retreat for those who enjoy natural beauty and history.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 9,
+        "weather_rate": 5
+    },
+    {
+        "city": "Latacunga",
+        "general_review": "Latacunga is best known for its festivals and its proximity to the Cotopaxi volcano, making it a great destination for both cultural experiences and outdoor adventures.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Latacunga",
+        "general_review": "With its colonial architecture and vibrant festivals, Latacunga is a city rich in culture and history. It’s also a gateway to the Cotopaxi National Park.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 5
+    },
+    {
+        "city": "Latacunga",
+        "general_review": "Latacunga is a city full of life, known for its cultural festivals and proximity to the Cotopaxi volcano. It’s a great mix of tradition and adventure.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 6,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 5
+    },
+    {
+        "city": "Latacunga",
+        "general_review": "Latacunga’s colorful festivals and stunning views of the Cotopaxi volcano make it a must-visit for those looking to experience Ecuador’s culture and natural beauty.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 8,
+        "weather_rate": 5
+    },
+    {
+        "city": "Salcedo",
+        "general_review": "Salcedo is famous for its delicious ice creams and proximity to the highlands. It’s a small town with a friendly atmosphere and great local food.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 9,
+        "costs_rate": 8,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Salcedo",
+        "general_review": "Known for its unique ice cream, Salcedo is a peaceful town with a welcoming vibe. It’s a great stop for food lovers and those exploring the Ecuadorian highlands.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 8,
+        "costs_rate": 7,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Salcedo",
+        "general_review": "Salcedo is a town renowned for its artisanal ice cream, offering a quiet and relaxed atmosphere in the Andean highlands.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 9,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 5
+    },
+    {
+        "city": "Salcedo",
+        "general_review": "Salcedo is a small, charming town known for its ice cream and proximity to beautiful highland landscapes. It’s an excellent place to stop for a snack and some rest.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 8,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Pujilí",
+        "general_review": "Pujilí is known for its vibrant Inti Raymi festival, a celebration of the indigenous culture. It’s a colorful town with a strong sense of tradition.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 6,
+        "costs_rate": 6,
+        "safety_rate": 8,
+        "weather_rate": 5
+    },
+    {
+        "city": "Pujilí",
+        "general_review": "A small town with a rich indigenous culture, Pujilí is famous for its colorful festivals and strong sense of tradition. It’s a great place to experience local customs.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 9,
+        "weather_rate": 6
+    },
+    {
+        "city": "Pujilí",
+        "general_review": "Pujilí is a quiet town known for its indigenous festivals and beautiful Andean surroundings. It’s a great spot for visitors interested in cultural immersion.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Pujilí",
+        "general_review": "Known for its lively indigenous celebrations, Pujilí offers a unique cultural experience. Its festivals and traditions draw visitors looking to connect with Ecuadorian heritage.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 6,
+        "costs_rate": 6,
+        "safety_rate": 8,
+        "weather_rate": 5
+    },
+    {
+        "city": "Ibarra",
+        "general_review": "Ibarra, known as the 'White City,' is a picturesque town with beautiful colonial architecture and a vibrant local market. It offers a pleasant mix of history and modern amenities.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Ibarra",
+        "general_review": "Ibarra is a charming city surrounded by lush landscapes and offers a range of outdoor activities. It is well known for its traditional food and local festivals.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Ibarra",
+        "general_review": "Ibarra offers a delightful experience with its blend of colonial architecture, scenic views, and cultural heritage. It’s a great spot for exploring traditional Ecuadorian life.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 9,
+        "weather_rate": 6
+    },
+    {
+        "city": "Ibarra",
+        "general_review": "Ibarra is a city with a rich cultural heritage and beautiful surroundings. Its local markets and historic buildings offer a unique glimpse into Ecuadorian life.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Otavalo",
+        "general_review": "Otavalo is famous for its vibrant indigenous market, which offers a wide range of traditional crafts and textiles. It’s a great place for cultural immersion and shopping.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Otavalo",
+        "general_review": "Known for its bustling market and beautiful surroundings, Otavalo is a top destination for those interested in indigenous culture and traditional crafts.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Otavalo",
+        "general_review": "Otavalo’s market is a must-visit for anyone interested in traditional Ecuadorian handicrafts. The town also offers a rich cultural experience with its vibrant festivals and local cuisine.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 7,
+        "costs_rate": 5,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Otavalo",
+        "general_review": "Otavalo is well-known for its traditional market, where visitors can find an array of local goods and crafts. The town’s rich cultural heritage is evident in its festivals and daily life.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 6,
+        "costs_rate": 6,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Cotacachi",
+        "general_review": "Cotacachi is renowned for its leather goods and charming atmosphere. It’s a quaint town with a strong local economy based on traditional crafts.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Cotacachi",
+        "general_review": "Famous for its high-quality leather products, Cotacachi is a small town with a welcoming atmosphere. It’s a good place to experience local craftsmanship and relax.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Cotacachi",
+        "general_review": "Cotacachi offers a unique shopping experience with its variety of leather goods. The town also provides a peaceful environment with beautiful mountain views.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 9,
+        "weather_rate": 7
+    },
+    {
+        "city": "Cotacachi",
+        "general_review": "Known for its leather craftsmanship, Cotacachi is a serene town with a rich cultural background. It’s an excellent place to shop for quality leather items and enjoy the local ambiance.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Loja",
+        "general_review": "Loja, known as the 'Music Capital of Ecuador,' offers a vibrant cultural scene with numerous festivals and music events. It’s a city rich in tradition and artistic expression.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Loja",
+        "general_review": "Loja is a city with a strong musical heritage and lively cultural events. It’s a great place to experience Ecuadorian music and arts while exploring its historic streets.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Loja",
+        "general_review": "Known for its vibrant music scene and cultural festivals, Loja offers a unique blend of tradition and modernity. It’s a charming city with a strong local identity.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Loja",
+        "general_review": "Loja stands out for its musical heritage and cultural festivals. It’s a dynamic city with a rich cultural life and a welcoming atmosphere for visitors.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 6,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "Catamayo",
+        "general_review": "Catamayo is a small, tranquil town known for its pleasant climate and scenic landscapes. It's an ideal spot for those looking to escape the hustle and bustle of larger cities.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 4,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 9
+    },
+    {
+        "city": "Catamayo",
+        "general_review": "Catamayo offers a serene environment with beautiful natural surroundings. While it may not have many tourist attractions, its relaxed atmosphere makes it a nice place for a quiet retreat.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Catamayo",
+        "general_review": "This peaceful town is perfect for those seeking a break from the city. Catamayo has a pleasant climate and is known for its agricultural activities, making it a great spot for rural tourism.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 9,
+        "weather_rate": 8
+    },
+    {
+        "city": "Catamayo",
+        "general_review": "Catamayo offers a quaint and peaceful escape with its picturesque views and laid-back vibe. It’s not a major tourist destination, but it provides a nice retreat from the busy city life.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 4,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 9
+    },
+    {
+        "city": "Macará",
+        "general_review": "Macará is a small town with a relaxed atmosphere and friendly locals. It is known for its agricultural surroundings and offers a glimpse into rural Ecuadorian life.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 3,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Macará",
+        "general_review": "Macará is a quiet town with limited tourist attractions but offers a peaceful environment and a chance to experience local culture and traditions.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Macará",
+        "general_review": "Known for its agricultural heritage, Macará provides a serene atmosphere and is a good spot for those interested in rural tourism and local Ecuadorian culture.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 3,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "Macará",
+        "general_review": "Macará is a small, tranquil town with a focus on agriculture. It offers a peaceful setting but lacks significant tourist attractions.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "Guaranda",
+        "general_review": "Guaranda is known for its vibrant festivals and cultural events. It’s a lively town with a strong local identity and offers a rich cultural experience.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 7,
+        "costs_rate": 5,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Guaranda",
+        "general_review": "Guaranda is famous for its colorful festivals and traditional Ecuadorian culture. The town has a vibrant atmosphere and is a great place to experience local customs and celebrations.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 6,
+        "costs_rate": 4,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Guaranda",
+        "general_review": "This town is well-regarded for its cultural heritage and lively festivals. Guaranda offers a unique glimpse into Ecuadorian traditions and is known for its local cuisine.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 8,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "Guaranda",
+        "general_review": "Guaranda is a town rich in cultural activities and traditional events. It’s a great place for visitors looking to immerse themselves in local customs and festivities.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "San Miguel",
+        "general_review": "San Miguel is a small town with a laid-back atmosphere and a focus on agriculture. It offers a peaceful environment with basic amenities for visitors.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 3,
+        "gastronomy_rate": 4,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "San Miguel",
+        "general_review": "San Miguel provides a tranquil retreat with its rural setting. It’s an ideal place for those looking to experience a slower pace of life and enjoy natural surroundings.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 5,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "San Miguel",
+        "general_review": "San Miguel is a quiet town that offers a break from busier places. It’s not a major tourist destination but provides a peaceful environment for relaxation.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 3,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "San Miguel",
+        "general_review": "San Miguel is a small town with limited tourist attractions but offers a calm and pleasant environment. It’s a good choice for a peaceful getaway.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Chillanes",
+        "general_review": "Chillanes is a small town with a friendly atmosphere, known for its agricultural activities and peaceful environment. It’s a good spot for those seeking a quiet retreat.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Chillanes",
+        "general_review": "Chillanes offers a tranquil environment with beautiful landscapes. Although it lacks major tourist attractions, it provides a relaxing experience for visitors.",
+        "touristic_places_rate": 2,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Chillanes",
+        "general_review": "This town is ideal for those looking to experience rural Ecuador. Chillanes has a calm ambiance and is known for its local agricultural products.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Chillanes",
+        "general_review": "Chillanes is a quiet town with a focus on agriculture. It’s a good destination for those interested in experiencing a slower pace of life and local culture.",
+        "touristic_places_rate": 2,
+        "history_and_culture_rate": 3,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Tulcán",
+        "general_review": "Tulcán is known for its unique cultural heritage and the famous Tulcán Cemetery with its topiary art. It’s a vibrant town with a mix of traditional and modern elements.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 7,
+        "costs_rate": 5,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Tulcán",
+        "general_review": "Tulcán offers a rich cultural experience with its historical sites and traditional festivals. It’s a great destination for those interested in Ecuadorian culture and history.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 6,
+        "costs_rate": 4,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Tulcán",
+        "general_review": "Tulcán is a culturally rich town with notable landmarks like the Tulcán Cemetery. It provides an engaging experience for visitors interested in local traditions and history.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Tulcán",
+        "general_review": "Tulcán is a town with a blend of traditional and contemporary influences. Its unique attractions and vibrant cultural scene make it an interesting place to visit.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "San Gabriel",
+        "general_review": "San Gabriel is a small town with a laid-back atmosphere, offering a glimpse into rural life in Ecuador. It’s a peaceful destination with limited tourist attractions.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "San Gabriel",
+        "general_review": "San Gabriel is a quiet town known for its agricultural surroundings. It provides a relaxing environment with basic amenities for visitors.",
+        "touristic_places_rate": 2,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 5,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "San Gabriel",
+        "general_review": "San Gabriel is a small, tranquil town with a focus on local agriculture. It’s a good destination for those looking to escape from more crowded areas.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 3,
+        "gastronomy_rate": 4,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "San Gabriel",
+        "general_review": "San Gabriel offers a peaceful environment and is ideal for those looking to experience a slower pace of life. It’s not a major tourist destination but provides a calm setting.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Mira",
+        "general_review": "Mira is a charming town with a serene atmosphere and beautiful natural surroundings. It’s a great spot for those looking to enjoy a peaceful environment away from the city.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 4,
+        "costs_rate": 5,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Mira",
+        "general_review": "Mira offers a tranquil setting with picturesque landscapes. It’s not heavily touristic but provides a calm escape from more crowded areas.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Mira",
+        "general_review": "Mira is a small town with a relaxed pace and beautiful scenery. It’s ideal for those who want to experience rural Ecuador and enjoy nature.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Mira",
+        "general_review": "Mira is a peaceful town offering a scenic environment. It’s a good destination for visitors seeking tranquility and a taste of rural life in Ecuador.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Ambato",
+        "general_review": "Ambato is a vibrant city known for its rich cultural heritage and lively festivals. It offers a mix of modern amenities and traditional charm, making it a great destination for cultural enthusiasts.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Ambato",
+        "general_review": "Ambato is an energetic city with a strong local culture. Although not as touristy as some other cities, it provides a genuine experience of Ecuadorian life and traditions.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 9,
+        "gastronomy_rate": 5,
+        "costs_rate": 4,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Ambato",
+        "general_review": "Ambato combines urban development with a rich cultural scene. The city is known for its festivals and historical sites, offering a unique blend of experiences.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 6,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Ambato",
+        "general_review": "Ambato is a lively city with a focus on preserving its cultural heritage. It offers a variety of local experiences, though it might not have the same level of tourist infrastructure as larger cities.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 7,
+        "costs_rate": 5,
+        "safety_rate": 9,
+        "weather_rate": 6
+    },
+    {
+        "city": "Baños",
+        "general_review": "Baños is a popular destination known for its adventure sports and stunning natural beauty. It’s ideal for thrill-seekers and nature lovers looking for outdoor activities.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 8,
+        "costs_rate": 5,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Baños",
+        "general_review": "Baños is famous for its picturesque landscapes and diverse outdoor activities. It’s a great spot for visitors seeking adventure and natural beauty.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Baños",
+        "general_review": "Baños offers a wide range of adventure sports and is known for its stunning waterfalls. It’s a vibrant town that attracts tourists with its natural attractions and outdoor activities.",
+        "touristic_places_rate": 10,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 7,
+        "costs_rate": 5,
+        "safety_rate": 6,
+        "weather_rate": 9
+    },
+    {
+        "city": "Baños",
+        "general_review": "Baños is a dynamic town famous for its natural attractions and adrenaline-pumping activities. It’s an ideal destination for those looking to explore the great outdoors.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 8
+    },
+    {
+        "city": "Pelileo",
+        "general_review": "Pelileo is a small town known for its relaxed atmosphere and local markets. It’s an excellent spot for experiencing everyday life in Ecuador without the tourist crowds.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Pelileo",
+        "general_review": "Pelileo is a quaint town with a focus on local traditions and agriculture. It’s a peaceful place with a slower pace of life, ideal for visitors seeking a more authentic experience.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Pelileo",
+        "general_review": "Pelileo offers a glimpse into rural Ecuadorian life with its traditional markets and local culture. It’s a good choice for those interested in a more laid-back visit.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 7,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Pelileo",
+        "general_review": "Pelileo is a small town with a focus on agriculture and local traditions. It’s a good destination for those looking for a quiet and authentic experience.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Nueva Loja (Lago Agrio)",
+        "general_review": "Nueva Loja, also known as Lago Agrio, is a gateway to the Amazon rainforest. It offers a unique opportunity for ecotourism and exploring the surrounding jungle.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 6,
+        "weather_rate": 8
+    },
+    {
+        "city": "Nueva Loja (Lago Agrio)",
+        "general_review": "Nueva Loja is a crucial hub for accessing the Amazon basin. It’s a practical base for exploring the rainforest, though the city itself has limited tourist attractions.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Nueva Loja (Lago Agrio)",
+        "general_review": "Nueva Loja serves as a starting point for Amazon adventures. While the city is more functional than touristy, it offers essential services for rainforest excursions.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 3,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Nueva Loja (Lago Agrio)",
+        "general_review": "Nueva Loja is a practical town for those heading into the Amazon. It’s not a major tourist destination but is crucial for those planning jungle expeditions.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Shushufindi",
+        "general_review": "Shushufindi is a remote town in the Amazon region, known for its rich biodiversity and proximity to indigenous communities. It's ideal for those seeking a deep immersion in the rainforest.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 3,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Shushufindi",
+        "general_review": "Shushufindi offers a unique experience for ecotourism enthusiasts, but its remote location means fewer amenities and services. It's a destination for adventurers looking to explore the Amazon.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 4,
+        "costs_rate": 2,
+        "safety_rate": 6,
+        "weather_rate": 8
+    },
+    {
+        "city": "Shushufindi",
+        "general_review": "Shushufindi provides an authentic experience of Amazonian life and nature, though it may lack some of the comforts found in more developed areas.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 4,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "Shushufindi",
+        "general_review": "As a gateway to the Amazon, Shushufindi is perfect for those interested in exploring the rainforest. It’s a less commercialized option compared to other ecotourism spots.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 3,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Cuyabeno",
+        "general_review": "Cuyabeno is renowned for its stunning wetlands and rich wildlife. It’s a popular choice for ecotourists and offers exceptional opportunities for wildlife viewing and river excursions.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 8,
+        "weather_rate": 9
+    },
+    {
+        "city": "Cuyabeno",
+        "general_review": "Cuyabeno offers an incredible experience for nature lovers with its diverse ecosystems. However, it can be pricey due to its remote location and the specialized tours available.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 5,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Cuyabeno",
+        "general_review": "Cuyabeno is a prime destination for those interested in exploring the Amazon rainforest. It’s ideal for adventure seekers and those wanting to experience the region's biodiversity.",
+        "touristic_places_rate": 10,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 7,
+        "weather_rate": 9
+    },
+    {
+        "city": "Cuyabeno",
+        "general_review": "Cuyabeno offers a unique opportunity to explore the Amazon's rich wildlife and ecosystems. While it's a fantastic destination for nature lovers, it can be more expensive and less accessible.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 6,
+        "costs_rate": 8,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Macas",
+        "general_review": "Macas is a charming town located in the eastern part of Ecuador, known for its scenic landscapes and cultural heritage. It offers a more tranquil experience compared to larger cities.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 5,
+        "costs_rate": 4,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Macas",
+        "general_review": "Macas is a quaint town with a focus on local traditions and natural beauty. It’s a great destination for those wanting to experience rural Ecuadorian life without the tourist crowds.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Macas",
+        "general_review": "Macas provides a peaceful retreat with its lush surroundings and local charm. While it may not be a major tourist hotspot, it offers a genuine experience of Ecuadorian culture and nature.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 5,
+        "costs_rate": 5,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Macas",
+        "general_review": "Macas is a lesser-known destination with a focus on natural beauty and cultural experiences. It’s a good choice for those looking to explore a quieter part of Ecuador.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 4,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Gualaquiza",
+        "general_review": "Gualaquiza is a small town in the Amazon basin, known for its natural beauty and proximity to indigenous communities. It’s an excellent spot for those looking to explore the rainforest off the beaten path.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 5,
+        "costs_rate": 4,
+        "safety_rate": 6,
+        "weather_rate": 8
+    },
+    {
+        "city": "Gualaquiza",
+        "general_review": "Gualaquiza offers a genuine Amazonian experience with its lush landscapes and local culture. It’s a remote area with limited amenities but is perfect for an immersive adventure.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 3,
+        "safety_rate": 5,
+        "weather_rate": 8
+    },
+    {
+        "city": "Gualaquiza",
+        "general_review": "Gualaquiza is an off-the-beaten-path destination known for its natural surroundings and cultural experiences. It’s ideal for those wanting to experience the Amazon in a less commercialized setting.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "Gualaquiza",
+        "general_review": "Gualaquiza offers a unique glimpse into Amazonian life and nature. While it may lack some of the comforts of more developed areas, it’s a rewarding destination for those seeking adventure.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 4,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "Sucúa",
+        "general_review": "Sucúa is a quiet town in the eastern part of Ecuador, known for its beautiful natural surroundings and cultural heritage. It’s a great spot for those looking to explore the Amazon region in a more tranquil setting.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "Sucúa",
+        "general_review": "Sucúa offers a peaceful retreat with its lush landscapes and local traditions. While it may not have as many tourist amenities, it provides an authentic experience of rural Amazonian life.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 3,
+        "costs_rate": 2,
+        "safety_rate": 6,
+        "weather_rate": 8
+    },
+    {
+        "city": "Sucúa",
+        "general_review": "As a gateway to the Amazon, Sucúa offers opportunities to explore the rainforest and indigenous cultures. It’s ideal for nature lovers seeking a more serene and less commercialized experience.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 5,
+        "costs_rate": 4,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Sucúa",
+        "general_review": "Sucúa provides a glimpse into Amazonian life with its natural beauty and local charm. It’s a suitable destination for those wanting to experience the region without the hustle and bustle of larger cities.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Tena",
+        "general_review": "Tena is a vibrant city in the Amazon basin, offering a mix of adventure and culture. It's a popular base for exploring the rainforest, with numerous tour options and local attractions.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 7,
+        "costs_rate": 5,
+        "safety_rate": 8,
+        "weather_rate": 9
+    },
+    {
+        "city": "Tena",
+        "general_review": "Tena is known for its accessibility to the Amazon rainforest and its diverse ecotourism activities. It’s an ideal location for those looking to explore nature while still having city conveniences.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 4,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Tena",
+        "general_review": "Tena offers a range of activities from jungle treks to river tours. It’s a good spot for adventurers and nature enthusiasts, although it can get busy with tourists during peak seasons.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 6,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 9
+    },
+    {
+        "city": "Tena",
+        "general_review": "Tena is a gateway to the Amazon with a mix of adventure and cultural experiences. It's a lively city with many options for exploring the rainforest, though it can be quite crowded at times.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 7,
+        "costs_rate": 5,
+        "safety_rate": 8,
+        "weather_rate": 8
+    },
+    {
+        "city": "Archidona",
+        "general_review": "Archidona is a charming town with beautiful natural surroundings and a laid-back atmosphere. It’s a good place for those wanting to enjoy the Amazon without the larger crowds.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 5,
+        "costs_rate": 4,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Archidona",
+        "general_review": "Archidona offers a quieter alternative to more tourist-heavy destinations. Its natural beauty and cultural experiences make it a lovely spot for a peaceful getaway.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Archidona",
+        "general_review": "Archidona is an excellent choice for those seeking a serene escape in the Amazon. It offers access to natural wonders and a chance to experience local culture away from the bustling tourist centers.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Archidona",
+        "general_review": "Archidona provides a unique glimpse into the Amazon with its lush landscapes and cultural offerings. It’s perfect for those wanting to explore nature while enjoying a more relaxed atmosphere.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 4,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Baeza",
+        "general_review": "Baeza is a picturesque town with stunning natural scenery and a tranquil atmosphere. It’s a great destination for those looking to escape the hustle and bustle of city life and enjoy the natural beauty of Ecuador.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Baeza",
+        "general_review": "Baeza offers a serene retreat with its beautiful landscapes and cultural charm. While it may not be a major tourist hub, it provides a peaceful environment for relaxation and exploration.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 4,
+        "costs_rate": 2,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Baeza",
+        "general_review": "Baeza is a small town with a focus on natural beauty and local culture. It’s an ideal destination for those wanting to experience a quieter side of Ecuadorian life.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 5,
+        "costs_rate": 4,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Baeza",
+        "general_review": "Baeza provides a lovely escape into the Andean foothills with its scenic beauty and local traditions. It’s suitable for travelers seeking a peaceful environment away from major tourist areas.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "Puyo",
+        "general_review": "Puyo is a vibrant city located at the gateway to the Amazon. It's a bustling hub with a range of activities and services, making it a great base for exploring the surrounding rainforest.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 4,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Puyo",
+        "general_review": "Puyo offers a mix of urban convenience and natural beauty. While it’s not as tranquil as some Amazonian towns, it provides a good balance of amenities and access to nearby ecotourism spots.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 3,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "Puyo",
+        "general_review": "Puyo is a dynamic city with a range of attractions and services for visitors. It’s a good starting point for Amazonian adventures, though it can be busy and less serene than other locations.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 7,
+        "costs_rate": 5,
+        "safety_rate": 6,
+        "weather_rate": 9
+    },
+    {
+        "city": "Puyo",
+        "general_review": "Puyo’s lively atmosphere and range of activities make it a practical choice for travelers looking to explore the Amazon. Its urban characteristics provide a contrast to the surrounding natural landscapes.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 6,
+        "costs_rate": 4,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Arajuno",
+        "general_review": "Arajuno is a small town offering an intimate experience with the Amazon. It's known for its natural beauty and cultural immersion opportunities, though it’s less developed than nearby cities.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Arajuno",
+        "general_review": "Arajuno provides a more rustic Amazonian experience with its lush surroundings and local culture. It’s ideal for those seeking a quieter retreat with a focus on nature.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 3,
+        "costs_rate": 2,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "Arajuno",
+        "general_review": "Arajuno is perfect for nature enthusiasts wanting a deeper connection with the Amazon. Its remote location offers a peaceful escape, though amenities are limited.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 5,
+        "costs_rate": 3,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Arajuno",
+        "general_review": "Arajuno offers a charming and immersive experience in the Amazon, with opportunities to explore local culture and natural beauty. It's a great choice for a more authentic and quiet visit.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Mera",
+        "general_review": "Mera is a small town with a strong connection to the surrounding rainforest. It’s an excellent spot for those looking to explore nature and indigenous cultures in a more tranquil setting.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 5,
+        "costs_rate": 3,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Mera",
+        "general_review": "Mera provides a peaceful retreat with easy access to the Amazon rainforest. It’s less developed than larger cities but offers a more authentic and calm Amazonian experience.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 4,
+        "costs_rate": 2,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Mera",
+        "general_review": "Mera is a quaint town with opportunities to explore the natural beauty of the Amazon. It’s ideal for travelers looking for a quieter, more immersive experience in the rainforest.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 6,
+        "costs_rate": 4,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Mera",
+        "general_review": "Mera offers a serene environment with close proximity to the Amazon rainforest. It’s a great destination for those wanting to escape the hustle and bustle of larger cities.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 5,
+        "costs_rate": 3,
+        "safety_rate": 8,
+        "weather_rate": 6
+    },
+    {
+        "city": "Zamora",
+        "general_review": "Zamora is a city in southern Ecuador known for its natural beauty and vibrant local culture. It’s a good destination for exploring the Amazon and enjoying a range of outdoor activities.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 4,
+        "safety_rate": 8,
+        "weather_rate": 8
+    },
+    {
+        "city": "Zamora",
+        "general_review": "Zamora provides access to beautiful Amazonian landscapes and local culture. It’s a bit more developed than some smaller towns but still offers a close-to-nature experience.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 7,
+        "weather_rate": 7
+    },
+    {
+        "city": "Zamora",
+        "general_review": "Zamora is a gateway to the lush Amazon with its own unique charm. It’s ideal for those looking to explore both natural wonders and local traditions in a relatively accessible location.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 8,
+        "weather_rate": 8
+    },
+    {
+        "city": "Zamora",
+        "general_review": "Zamora offers a blend of natural beauty and cultural experiences. It’s a vibrant city with plenty of opportunities for adventure and exploration, making it a solid choice for travelers.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 4,
+        "safety_rate": 7,
+        "weather_rate": 9
+    },
+    {
+        "city": "Yantzaza",
+        "general_review": "Yantzaza is a charming town in the southern part of Ecuador, offering a mix of local culture and natural beauty. It’s a quieter destination with a focus on community and nature.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Yantzaza",
+        "general_review": "Yantzaza provides a serene escape into nature with a few local attractions. It’s perfect for those seeking a tranquil experience with opportunities to explore the surrounding environment.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 3,
+        "costs_rate": 2,
+        "safety_rate": 9,
+        "weather_rate": 8
+    },
+    {
+        "city": "Yantzaza",
+        "general_review": "Yantzaza offers a laid-back atmosphere with beautiful natural surroundings. It’s an excellent spot for eco-tourism and immersing in local traditions, though amenities are somewhat limited.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Yantzaza",
+        "general_review": "Yantzaza is a small town with a rich local culture and access to natural attractions. It’s ideal for travelers looking to experience authentic Amazonian life away from larger cities.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "El Pangui",
+        "general_review": "El Pangui is a remote town known for its natural beauty and indigenous culture. It’s less developed, which makes it a unique destination for those seeking adventure and cultural immersion.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 3,
+        "costs_rate": 2,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "El Pangui",
+        "general_review": "El Pangui offers a true Amazonian experience with limited amenities but plenty of natural beauty. It’s perfect for those looking to explore remote areas and engage with local cultures.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "El Pangui",
+        "general_review": "El Pangui is a small and less developed town with a focus on nature and local culture. It’s ideal for adventurous travelers seeking a deeper connection with the Amazon region.",
+        "touristic_places_rate": 3,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 2,
+        "costs_rate": 1,
+        "safety_rate": 6,
+        "weather_rate": 5
+    },
+    {
+        "city": "El Pangui",
+        "general_review": "El Pangui provides an off-the-beaten-path experience with its remote location and natural beauty. It's a great destination for those looking to escape from more touristy areas and explore authentic Amazonian life.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "Francisco de Orellana (Coca)",
+        "general_review": "Francisco de Orellana, commonly known as Coca, is a bustling gateway to the Amazon. It offers a range of services and activities, making it a practical choice for those exploring the rainforest.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 6,
+        "weather_rate": 8
+    },
+    {
+        "city": "Francisco de Orellana (Coca)",
+        "general_review": "Coca is a key city for Amazonian exploration with its range of services and transportation options. It’s a practical choice for travelers, though it’s more urban compared to other rainforest locations.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 4,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "Francisco de Orellana (Coca)",
+        "general_review": "Coca is a hub for those venturing into the Amazon. It’s a city with modern amenities and serves as a good base for exploring the rainforest, though it lacks the charm of more remote towns.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Francisco de Orellana (Coca)",
+        "general_review": "Coca is a lively city with convenient access to the Amazon. It offers various activities and services, making it a good choice for travelers who need a balance between urban comforts and rainforest adventures.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 6,
+        "weather_rate": 8
+    },
+    {
+        "city": "La Joya de los Sachas",
+        "general_review": "La Joya de los Sachas is a small town offering a gateway to the Amazon region. It’s known for its natural beauty and local charm, though amenities are more limited compared to larger cities.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "La Joya de los Sachas",
+        "general_review": "La Joya de los Sachas provides a quieter Amazonian experience with access to natural attractions. It’s ideal for those looking to immerse themselves in local culture and explore the surrounding environment.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 3,
+        "costs_rate": 2,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "La Joya de los Sachas",
+        "general_review": "La Joya de los Sachas is a tranquil town with a focus on natural beauty and local traditions. It’s a good option for travelers seeking a more authentic Amazonian experience.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 3,
+        "safety_rate": 7,
+        "weather_rate": 6
+    },
+    {
+        "city": "La Joya de los Sachas",
+        "general_review": "La Joya de los Sachas offers a serene environment with beautiful natural surroundings. It’s perfect for those looking to explore the Amazon and engage with local culture in a quieter setting.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Loreto",
+        "general_review": "Loreto is a picturesque town in the Amazon basin, known for its lush landscapes and rich biodiversity. It serves as a great starting point for exploring the surrounding rainforest.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Loreto",
+        "general_review": "Loreto offers a serene experience with its natural beauty and cultural heritage. It’s a good destination for eco-tourists and those interested in exploring the Amazonian lifestyle.",
+        "touristic_places_rate": 4,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 3,
+        "costs_rate": 2,
+        "safety_rate": 8,
+        "weather_rate": 7
+    },
+    {
+        "city": "Loreto",
+        "general_review": "Loreto is a small town with limited amenities but great natural attractions. It’s ideal for those seeking a more immersive experience in the Amazon.",
+        "touristic_places_rate": 6,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 3,
+        "costs_rate": 4,
+        "safety_rate": 6,
+        "weather_rate": 7
+    },
+    {
+        "city": "Loreto",
+        "general_review": "Loreto provides an authentic Amazonian experience with beautiful landscapes and a rich local culture. It’s best suited for those who appreciate nature and tranquility.",
+        "touristic_places_rate": 5,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 4,
+        "costs_rate": 3,
+        "safety_rate": 7,
+        "weather_rate": 8
+    },
+    {
+        "city": "Puerto Baquerizo Moreno",
+        "general_review": "Puerto Baquerizo Moreno, located on San Cristóbal Island, is known for its stunning beaches and rich marine life. It’s a popular destination for tourists exploring the Galápagos Islands.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 9,
+        "weather_rate": 8
+    },
+    {
+        "city": "Puerto Baquerizo Moreno",
+        "general_review": "Puerto Baquerizo Moreno offers a mix of natural beauty and tourist amenities. It’s a key spot for exploring the Galápagos, though it can be relatively expensive.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 7,
+        "safety_rate": 8,
+        "weather_rate": 8
+    },
+    {
+        "city": "Puerto Baquerizo Moreno",
+        "general_review": "Puerto Baquerizo Moreno is a vibrant hub on San Cristóbal Island with excellent opportunities for wildlife viewing and exploring Galápagos' unique ecosystems.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 9,
+        "weather_rate": 7
+    },
+    {
+        "city": "Puerto Baquerizo Moreno",
+        "general_review": "Puerto Baquerizo Moreno provides a great base for exploring the Galápagos Islands with its beautiful beaches and diverse wildlife. However, it can be quite pricey.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 7,
+        "costs_rate": 6,
+        "safety_rate": 9,
+        "weather_rate": 8
+    },
+    {
+        "city": "Puerto Ayora",
+        "general_review": "Puerto Ayora is the largest town in the Galápagos Islands, offering a range of services and attractions. It’s a popular destination for those exploring the archipelago.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 8,
+        "costs_rate": 7,
+        "safety_rate": 9,
+        "weather_rate": 8
+    },
+    {
+        "city": "Puerto Ayora",
+        "general_review": "Puerto Ayora is a bustling town with excellent access to Galápagos wildlife and activities. It’s well-equipped for tourists but can be expensive.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 7,
+        "costs_rate": 8,
+        "safety_rate": 9,
+        "weather_rate": 8
+    },
+    {
+        "city": "Puerto Ayora",
+        "general_review": "Puerto Ayora offers a mix of natural wonders and urban conveniences. It’s a central hub for exploring the Galápagos, though costs can be high.",
+        "touristic_places_rate": 9,
+        "history_and_culture_rate": 7,
+        "gastronomy_rate": 8,
+        "costs_rate": 6,
+        "safety_rate": 9,
+        "weather_rate": 8
+    },
+    {
+        "city": "Puerto Ayora",
+        "general_review": "Puerto Ayora is a vibrant town with numerous attractions and activities. It serves as a great base for exploring the Galápagos Islands but comes with a higher price tag.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 8,
+        "gastronomy_rate": 7,
+        "costs_rate": 7,
+        "safety_rate": 9,
+        "weather_rate": 8
+    },
+    {
+        "city": "Puerto Villamil",
+        "general_review": "Puerto Villamil, located on Isabela Island, is known for its stunning beaches and relaxed atmosphere. It’s an excellent spot for those looking to enjoy nature and tranquility.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 8,
+        "weather_rate": 9
+    },
+    {
+        "city": "Puerto Villamil",
+        "general_review": "Puerto Villamil offers a peaceful retreat with beautiful beaches and easy access to Isabela Island’s natural wonders. It’s ideal for a more laid-back Galápagos experience.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 4,
+        "gastronomy_rate": 5,
+        "costs_rate": 4,
+        "safety_rate": 8,
+        "weather_rate": 9
+    },
+    {
+        "city": "Puerto Villamil",
+        "general_review": "Puerto Villamil is a charming town with a focus on natural beauty and relaxation. It’s a great choice for those wanting to explore Isabela Island’s attractions in a more serene setting.",
+        "touristic_places_rate": 8,
+        "history_and_culture_rate": 5,
+        "gastronomy_rate": 6,
+        "costs_rate": 5,
+        "safety_rate": 8,
+        "weather_rate": 9
+    },
+    {
+        "city": "Puerto Villamil",
+        "general_review": "Puerto Villamil is known for its tranquil environment and stunning natural scenery. It’s perfect for travelers seeking a more relaxed and scenic experience on Isabela Island.",
+        "touristic_places_rate": 7,
+        "history_and_culture_rate": 6,
+        "gastronomy_rate": 5,
+        "costs_rate": 4,
+        "safety_rate": 8,
+        "weather_rate": 9
     }
 ]

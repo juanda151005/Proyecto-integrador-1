@@ -20,17 +20,3 @@ Proyecto-integrador-1
 ```bash
 git clone https://github.com/juanda151005/Proyecto-integrador-1.git
 ```
-- Get in the enviroment:
-```bash
-    .\myEnv\Scripts\activate
-```
-
-- Install Django:
-```bash
-    pip install Django
-```
-
-- Install Pillow:
-```bash
-    pip install Pillow
-```

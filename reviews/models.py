@@ -1,6 +1,5 @@
 from django.db import models
 
-# Create your models here.
 class range(models.IntegerChoices):
         ONE = 1
         TWO = 2

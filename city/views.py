@@ -3,10 +3,7 @@ from django.http import HttpResponse
 from reviews.models import Reviews
 from .models import City
 
-# Create your views here.
-
 def home(request):
-    #return render(request, 'home.html')
     searchTerm=request.GET.get('searchCity')
     if searchTerm:
         cities = City.objects.filter(name__icontains=searchTerm)

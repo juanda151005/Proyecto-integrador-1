@@ -532,5 +532,437 @@
         "country": "Colombia",
         "rate": 6.8,
         "description": "La Primavera is a municipality in Vichada known for its agricultural activities, local markets, and natural surroundings."
-    }
+    },
+    {
+        "name": "Guayaquil",
+        "country": "Ecuador",
+        "rate": 8.5,
+        "description": "Guayaquil is Ecuador's largest city and a major port, known for its vibrant culture, commerce, and coastal location."
+    },
+    {
+        "name": "Durán",
+        "country": "Ecuador",
+        "rate": 6.7,
+        "description": "Durán is a town near Guayaquil, known for its industrial activity and its role in the logistics of Ecuador's coastal trade."
+    },
+    {
+        "name": "Milagro",
+        "country": "Ecuador",
+        "rate": 7.0,
+        "description": "Milagro is a city famous for its sugar cane production, and it plays an important role in Ecuador's agricultural economy."
+    },
+    {
+        "name": "Esmeraldas",
+        "country": "Ecuador",
+        "rate": 7.2,
+        "description": "Esmeraldas is a coastal city known for its beautiful beaches, rich Afro-Ecuadorian culture, and oil industry."
+    },
+    {
+        "name": "Atacames",
+        "country": "Ecuador",
+        "rate": 7.5,
+        "description": "Atacames is a popular tourist destination on the Pacific coast, famous for its lively beaches and seafood cuisine."
+    },
+    {
+        "name": "San Lorenzo",
+        "country": "Ecuador",
+        "rate": 6.9,
+        "description": "San Lorenzo is a small town in northern Ecuador known for its strategic location near the Colombian border and its rainforest setting."
+    },
+    {
+        "name": "Portoviejo",
+        "country": "Ecuador",
+        "rate": 7.1,
+        "description": "Portoviejo is the capital of Manabí province, known for its agricultural production, particularly bananas and coffee."
+    },
+    {
+        "name": "Manta",
+        "country": "Ecuador",
+        "rate": 7.8,
+        "description": "Manta is a coastal city famous for its tuna industry and as a popular beach destination for both tourists and locals."
+    },
+    {
+        "name": "Chone",
+        "country": "Ecuador",
+        "rate": 6.6,
+        "description": "Chone is a town in the Manabí province, known for its agricultural activities, especially dairy farming and cocoa production."
+    },
+    {
+        "name": "Babahoyo",
+        "country": "Ecuador",
+        "rate": 6.8,
+        "description": "Babahoyo is a city located near the Babahoyo and San Pablo rivers, known for its role in the agricultural sector, particularly rice."
+    },
+    {
+        "name": "Quevedo",
+        "country": "Ecuador",
+        "rate": 7.0,
+        "description": "Quevedo is a city in the Los Ríos province, known for its agricultural economy, focusing on bananas, cacao, and rice."
+    },
+    {
+        "name": "Ventanas",
+        "country": "Ecuador",
+        "rate": 6.7,
+        "description": "Ventanas is a town in Los Ríos, Ecuador, known for its agricultural production and riverside landscape."
+    },
+    {
+        "name": "Machala",
+        "country": "Ecuador",
+        "rate": 7.4,
+        "description": "Machala is known as the Banana Capital of the World due to its large-scale banana export industry and proximity to the Gulf of Guayaquil."
+    },
+    {
+        "name": "Pasaje",
+        "country": "Ecuador",
+        "rate": 6.8,
+        "description": "Pasaje is a town in the El Oro province, known for its agricultural activities, particularly the cultivation of bananas and cacao."
+    },
+    {
+        "name": "Santa Rosa",
+        "country": "Ecuador",
+        "rate": 7.0,
+        "description": "Santa Rosa is a city in El Oro, famous for its shrimp farming industry and its growing tourism sector."
+    },
+    {
+        "name": "Santa Elena",
+        "country": "Ecuador",
+        "rate": 7.3,
+        "description": "Santa Elena is the capital of Santa Elena province, known for its archaeological sites, beautiful beaches, and vibrant coastal culture."
+    },
+    {
+        "name": "La Libertad",
+        "country": "Ecuador",
+        "rate": 6.9,
+        "description": "La Libertad is a coastal city known for its oil refinery and as an economic hub for the province of Santa Elena."
+    },
+    {
+        "name": "Salinas",
+        "country": "Ecuador",
+        "rate": 8.0,
+        "description": "Salinas is one of Ecuador's most popular beach resorts, known for its beautiful coastline, luxury resorts, and vibrant nightlife."
+    },
+    {
+        "name": "Santo Domingo",
+        "country": "Ecuador",
+        "rate": 7.1,
+        "description": "Santo Domingo is a major city in Ecuador, known for its agricultural productivity and strategic location as a gateway between the Andes and the coast."
+    },
+    {
+        "name": "La Concordia",
+        "country": "Ecuador",
+        "rate": 6.7,
+        "description": "La Concordia is a small town known for its agriculture, primarily focusing on palm oil production and other tropical crops."
+    },
+    {
+        "name": "Alluriquín",
+        "country": "Ecuador",
+        "rate": 6.5,
+        "description": "Alluriquín is a rural town known for its natural beauty, including rivers and mountains, attracting ecotourism and agriculture."
+    },
+    {
+        "name": "Quito",
+        "country": "Ecuador",
+        "rate": 8.9,
+        "description": "Quito is Ecuador's capital and a UNESCO World Heritage Site, famous for its well-preserved historic center and stunning Andean setting."
+    },
+    {
+        "name": "Cayambe",
+        "country": "Ecuador",
+        "rate": 7.3,
+        "description": "Cayambe is known for its proximity to the Cayambe volcano, its flower industry, and traditional biscuits called 'bizcochos'."
+    },
+    {
+        "name": "Sangolquí",
+        "country": "Ecuador",
+        "rate": 7.0,
+        "description": "Sangolquí is a town near Quito known for its traditional market, agricultural production, and growing suburban communities."
+    },
+    {
+        "name": "Cuenca",
+        "country": "Ecuador",
+        "rate": 8.7,
+        "description": "Cuenca is a UNESCO World Heritage city known for its colonial architecture, vibrant cultural scene, and beautiful Andean landscapes."
+    },
+    {
+        "name": "Gualaceo",
+        "country": "Ecuador",
+        "rate": 7.2,
+        "description": "Gualaceo is a charming town near Cuenca, famous for its handicrafts, traditional markets, and scenic river landscapes."
+    },
+    {
+        "name": "Paute",
+        "country": "Ecuador",
+        "rate": 7.1,
+        "description": "Paute is a town in the Azuay province known for its agricultural production, particularly of fruits, and its peaceful countryside."
+    },
+    {
+        "name": "Azogues",
+        "country": "Ecuador",
+        "rate": 7.0,
+        "description": "Azogues is the capital of the Cañar province, known for its religious festivals, historical sites, and proximity to Incan ruins."
+    },
+    {
+        "name": "La Troncal",
+        "country": "Ecuador",
+        "rate": 6.8,
+        "description": "La Troncal is an important agricultural and industrial hub, known for its sugarcane production and growing industrial development."
+    },
+    {
+        "name": "Biblián",
+        "country": "Ecuador",
+        "rate": 6.9,
+        "description": "Biblián is a small town famous for its picturesque church built into a hill, and its role in local agricultural and religious traditions."
+    },
+    {
+        "name": "Riobamba",
+        "country": "Ecuador",
+        "rate": 7.5,
+        "description": "Riobamba is known for its colonial architecture, as a gateway to Chimborazo, Ecuador’s highest mountain, and its indigenous markets."
+    },
+    {
+        "name": "Guano",
+        "country": "Ecuador",
+        "rate": 6.9,
+        "description": "Guano is a town near Riobamba, famous for its leather goods and traditional handicrafts, as well as its scenic mountainous setting."
+    },
+    {
+        "name": "Alausí",
+        "country": "Ecuador",
+        "rate": 7.3,
+        "description": "Alausí is a small town known for the famous Devil's Nose train ride, which offers stunning views of the Andean landscape."
+    },
+    {
+        "name": "Latacunga",
+        "country": "Ecuador",
+        "rate": 7.4,
+        "description": "Latacunga is a city located near the Cotopaxi volcano, known for its traditional 'Mama Negra' festival and its historic center."
+    },
+    {
+        "name": "Salcedo",
+        "country": "Ecuador",
+        "rate": 6.7,
+        "description": "Salcedo is known for its traditional ice cream, called 'helado de Salcedo', and its agricultural activities in the highland region."
+    },
+    {
+        "name": "Pujilí",
+        "country": "Ecuador",
+        "rate": 6.8,
+        "description": "Pujilí is a small town famous for its colorful traditional festivals, including the Corpus Christi celebration, and its pottery."
+    },
+    {
+        "name": "Ibarra",
+        "country": "Ecuador",
+        "rate": 7.6,
+        "description": "Ibarra, known as the 'White City' due to its colonial architecture, is a vibrant city with a rich history and beautiful surroundings in the northern Andes."
+    },
+    {
+        "name": "Otavalo",
+        "country": "Ecuador",
+        "rate": 8.1,
+        "description": "Otavalo is famous for its indigenous market, one of the largest in South America, and its picturesque setting near the Imbabura volcano."
+    },
+    {
+        "name": "Cotacachi",
+        "country": "Ecuador",
+        "rate": 7.4,
+        "description": "Cotacachi is known for its leather goods, beautiful landscapes, and proximity to the Cotacachi-Cayapas Ecological Reserve."
+    },
+    {
+        "name": "Loja",
+        "country": "Ecuador",
+        "rate": 7.7,
+        "description": "Loja is a cultural hub in southern Ecuador, known for its music, universities, and its historic center with well-preserved colonial architecture."
+    },
+    {
+        "name": "Catamayo",
+        "country": "Ecuador",
+        "rate": 6.9,
+        "description": "Catamayo is a small city near Loja, known for its agricultural activities and as a gateway to the Loja province's diverse landscapes."
+    },
+    {
+        "name": "Macará",
+        "country": "Ecuador",
+        "rate": 6.8,
+        "description": "Macará is a town in the southernmost part of Ecuador, known for its agricultural production and its proximity to the Peruvian border."
+    },
+    {
+        "name": "Guaranda",
+        "country": "Ecuador",
+        "rate": 7.2,
+        "description": "Guaranda is known for its vibrant Carnival celebrations and as a center of indigenous culture in the Bolívar province."
+    },
+    {
+        "name": "San Miguel",
+        "country": "Ecuador",
+        "rate": 6.7,
+        "description": "San Miguel is a town in the Bolívar province, known for its local festivals and traditional agricultural practices."
+    },
+    {
+        "name": "Chillanes",
+        "country": "Ecuador",
+        "rate": 6.6,
+        "description": "Chillanes is a small town known for its natural beauty, including rivers and mountains, and its traditional Andean culture."
+    },
+    {
+        "name": "Tulcán",
+        "country": "Ecuador",
+        "rate": 7.5,
+        "description": "Tulcán is known for its unique topiary gardens, the 'Cemetery of Tulcán', and its role as a border town with Colombia."
+    },
+    {
+        "name": "San Gabriel",
+        "country": "Ecuador",
+        "rate": 6.8,
+        "description": "San Gabriel is a town in the Carchi province known for its agricultural activities and its location near the northern highlands."
+    },
+    {
+        "name": "Mira",
+        "country": "Ecuador",
+        "rate": 6.7,
+        "description": "Mira is a small town known for its agricultural production and as a peaceful retreat in the northern region of Ecuador."
+    },
+    {
+        "name": "Ambato",
+        "country": "Ecuador",
+        "rate": 7.8,
+        "description": "Ambato is known as the 'City of Flowers and Fruits,' famous for its vibrant festivals, historic architecture, and scenic beauty."
+    },
+    {
+        "name": "Baños",
+        "country": "Ecuador",
+        "rate": 8.2,
+        "description": "Baños is a popular tourist destination known for its hot springs, waterfalls, and adventure sports, nestled in the foothills of the Tungurahua volcano."
+    },
+    {
+        "name": "Pelileo",
+        "country": "Ecuador",
+        "rate": 6.9,
+        "description": "Pelileo is known for its traditional textile industry and beautiful landscapes, offering a peaceful rural environment."
+    },
+    {
+        "name": "Nueva Loja (Lago Agrio)",
+        "country": "Ecuador",
+        "rate": 7.1,
+        "description": "Nueva Loja, also known as Lago Agrio, is a gateway to the Amazon rainforest and is important for the oil industry and ecological tourism."
+    },
+    {
+        "name": "Shushufindi",
+        "country": "Ecuador",
+        "rate": 6.8,
+        "description": "Shushufindi is a town in the Sucumbíos province, known for its role in the oil industry and its proximity to the Amazon basin."
+    },
+    {
+        "name": "Cuyabeno",
+        "country": "Ecuador",
+        "rate": 7.3,
+        "description": "Cuyabeno is a major ecotourism destination, known for the Cuyabeno Wildlife Reserve and its rich biodiversity in the Amazon rainforest."
+    },
+    {
+        "name": "Macas",
+        "country": "Ecuador",
+        "rate": 7.0,
+        "description": "Macas is a city in the Amazon region, known for its indigenous cultures, tropical landscapes, and as a hub for ecological tourism."
+    },
+    {
+        "name": "Gualaquiza",
+        "country": "Ecuador",
+        "rate": 6.7,
+        "description": "Gualaquiza is a town in the Morona Santiago province, known for its natural beauty, including rivers and jungle landscapes."
+    },
+    {
+        "name": "Sucúa",
+        "country": "Ecuador",
+        "rate": 6.9,
+        "description": "Sucúa is a town known for its lush Amazonian surroundings and indigenous communities, offering a glimpse into the region's rich cultural heritage."
+    },
+    {
+        "name": "Tena",
+        "country": "Ecuador",
+        "rate": 7.4,
+        "description": "Tena is a key city in the Amazon region, renowned for its ecotourism opportunities, including jungle tours and river excursions."
+    },
+    {
+        "name": "Archidona",
+        "country": "Ecuador",
+        "rate": 6.8,
+        "description": "Archidona is a town known for its traditional Amazonian culture, natural beauty, and proximity to important ecological sites."
+    },
+    {
+        "name": "Baeza",
+        "country": "Ecuador",
+        "rate": 6.9,
+        "description": "Baeza is a small town in the Amazon region, notable for its historical significance and access to the surrounding rainforest."
+    },
+    {
+        "name": "Puyo",
+        "country": "Ecuador",
+        "rate": 7.3,
+        "description": "Puyo is a city in the Amazon region known for its vibrant indigenous culture, lush rainforest surroundings, and ecotourism opportunities."
+    },
+    {
+        "name": "Arajuno",
+        "country": "Ecuador",
+        "rate": 6.9,
+        "description": "Arajuno is a small town in the Amazon rainforest, known for its traditional culture and its role as a gateway to the surrounding natural reserves."
+    },
+    {
+        "name": "Mera",
+        "country": "Ecuador",
+        "rate": 7.0,
+        "description": "Mera is a town in the Amazon region, offering access to dense jungle, indigenous communities, and natural attractions like waterfalls."
+    },
+    {
+        "name": "Zamora",
+        "country": "Ecuador",
+        "rate": 7.5,
+        "description": "Zamora is a city in the southeastern Amazon region, known for its beautiful natural scenery, including waterfalls and cloud forests."
+    },
+    {
+        "name": "Yantzaza",
+        "country": "Ecuador",
+        "rate": 6.8,
+        "description": "Yantzaza is a town in the southern Amazon region, known for its agricultural activities and proximity to the lush rainforest."
+    },
+    {
+        "name": "El Pangui",
+        "country": "Ecuador",
+        "rate": 6.7,
+        "description": "El Pangui is a small town in the Amazon region, notable for its mining activities and remote jungle setting."
+    },
+    {
+        "name": "Francisco de Orellana (Coca)",
+        "country": "Ecuador",
+        "rate": 7.2,
+        "description": "Francisco de Orellana, also known as Coca, is a major gateway to the Amazon basin, known for its role in the oil industry and its access to the rainforest."
+    },
+    {
+        "name": "La Joya de los Sachas",
+        "country": "Ecuador",
+        "rate": 6.9,
+        "description": "La Joya de los Sachas is a town in the Amazon region, known for its natural resources and its role in local oil extraction."
+    },
+    {
+        "name": "Loreto",
+        "country": "Ecuador",
+        "rate": 7.1,
+        "description": "Loreto is a town in the Amazon, recognized for its ecological importance and as a base for exploring the surrounding jungle and indigenous cultures."
+    },
+    {
+        "name": "Puerto Baquerizo Moreno",
+        "country": "Ecuador",
+        "rate": 8.4,
+        "description": "Puerto Baquerizo Moreno is the capital of the Galápagos Province, known for its stunning beaches, marine life, and as a gateway to the Galápagos Islands."
+    },
+    {
+        "name": "Puerto Ayora",
+        "country": "Ecuador",
+        "rate": 8.5,
+        "description": "Puerto Ayora is the largest town in the Galápagos Islands, famous for its vibrant tourist scene, marine biodiversity, and access to Galápagos National Park."
+    },
+    {
+        "name": "Puerto Villamil",
+        "country": "Ecuador",
+        "rate": 8.3,
+        "description": "Puerto Villamil is a town on Isabela Island in the Galápagos, known for its beautiful beaches, giant tortoises, and natural reserves."
+    }            
 ]
