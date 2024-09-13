@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+{% block content %}
+<head>
+  <title>All Cities page</title>
+</head>
+<div class="container">
+    <form action="">
+      <div class="mb-3">
+        <label for="searchCity" class="form-label">
+          Search for City:
+        </label>
+        <input type="text" class="form-control" name="searchCity"/>
+      </div>
+      <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+    <p>Searching for: {{ searchTerm }}</p>
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+      {% for city in cities %}
+        <div v-for="city in cities" class="col">
+          <a href="{% url 'city_reviews' city.name%}">
+            <div class="card">
+              <img class="card-img-top" src="{{ city.image.url }}" />
+              <div class="card-body">
+                <h5 class="card-title">{{ forloop.counter }}. {{ city.name }}</h5>
+                  <p class="card-text"><strong>Country:</strong> {{ city.country }}</p>
+                  <p class="card-text"><strong>Rate:</strong> {{ city.rate }}</p>
+                  <p class="card-text">{{ city.description }}</p>
+              </div>
+            </div>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+    <br />
+    <br />
+  </div>
+{% endblock content %}

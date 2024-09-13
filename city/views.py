@@ -12,6 +12,15 @@ def home(request):
     cities = cities.order_by('-rate')
     return render(request, 'home.html', {'searchTerm': searchTerm, 'cities': cities})
 
+def city(request):
+    searchTerm=request.GET.get('searchCity')
+    if searchTerm:
+        cities = City.objects.filter(name__icontains=searchTerm)
+    else:  
+        cities=City.objects.all()
+    cities = cities.order_by('-rate')
+    return render(request, 'home.html', {'searchTerm': searchTerm, 'cities': cities})
+
 def city_reviews(request, city_name):
     city = get_object_or_404(City, name=city_name)
     reviews = Reviews.objects.filter(city=city.name)
