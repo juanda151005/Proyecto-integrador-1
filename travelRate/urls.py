@@ -11,7 +11,7 @@ urlpatterns = [
     path('reviews/', include('reviews.urls')),
     path('reviews/<str:city_name>/', city_reviews, name='city_reviews'),
     path('ranking/', include('ranking.urls')),
-
+    path('accounts/', include('accounts.urls')),
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

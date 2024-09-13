@@ -31,6 +31,7 @@ INSTALLED_APPS = [
     'city',
     'reviews',
     'ranking',
+    'accounts',
 ]
 
 MIDDLEWARE = [
