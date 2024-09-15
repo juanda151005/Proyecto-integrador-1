@@ -20,3 +20,9 @@ Proyecto-integrador-1
 ```bash
 git clone https://github.com/juanda151005/Proyecto-integrador-1.git
 ```
+## Installing Dependencies
+
+- To install the necessary dependencies, make sure you have `pip` installed and run the following command:
+
+```bash
+pip install -r requirements.txt
