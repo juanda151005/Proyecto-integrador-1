@@ -19,7 +19,7 @@ def city(request):
     else:  
         cities=City.objects.all()
     cities = cities.order_by('-rate')
-    return render(request, 'home.html', {'searchTerm': searchTerm, 'cities': cities})
+    return render(request, 'city.html', {'searchTerm': searchTerm, 'cities': cities})
 
 def city_reviews(request, city_name):
     city = get_object_or_404(City, name=city_name)

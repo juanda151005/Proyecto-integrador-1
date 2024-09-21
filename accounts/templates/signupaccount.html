@@ -1,26 +1,41 @@
 {% extends 'base.html' %}
+{% load static %}
 {% block content %}
-<div class="card mb-3">
-    <div class="row g-0">
-        <div>
-            <div class="card-body">
-                <h5 class="card-tittle">Sign Up</h5>
-                {% if error %}
-                <div class="alert alert-danger mt-3" rote="alert">
-                    {{ error }}
-                </div>
-                {% endif %}
-                <p class="card-text">
-                    <form method="POST">
-                        {% csrf_token %}
-                        {{ form.as_p }}
-                        <button class="btn btn-primary">
-                            Sign Up
-                        </button>
-                    </form>
-                </p>
-            </div>
-        </div>
+<head>
+    {% block style %}
+    <link rel="stylesheet" href="{% static 'css/singup.css' %}">
+    {% endblock style %}
+</head>
+<form class="form">
+    {% if error %}
+    <div class="alert alert-danger mt-3" rote="alert">
+        {{ error }}
     </div>
-</div>
+    {% endif %}
+    <p class="title">Register </p>
+    <p class="message">Signup now and get full access to our app. </p>
+
+    <label>
+        <input class="input" type="text" placeholder="" required="">
+        <span>Username</span>
+    </label> 
+       
+    <label>
+        <input class="input" type="email" placeholder="" required="">
+        <span>Email</span>
+    </label> 
+        
+    <label>
+        <input class="input" type="password" placeholder="" required="">
+        <span>Password</span>
+    </label>
+
+    <label>
+        <input class="input" type="password" placeholder="" required="">
+        <span>Confirm password</span>
+    </label>
+    
+    <button class="submit">Submit</button>
+    <p class="signin">Already have an acount ? <a href="{% url 'loginaccount' %}">Login</a> </p>
+</form>
 {% endblock content %}
