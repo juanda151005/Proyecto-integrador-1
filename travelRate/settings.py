@@ -32,6 +32,7 @@ INSTALLED_APPS = [
     'reviews',
     'ranking',
     'accounts',
+    'routes',
 ]
 
 MIDDLEWARE = [
