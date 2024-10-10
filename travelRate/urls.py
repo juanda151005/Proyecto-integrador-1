@@ -13,6 +13,7 @@ urlpatterns = [
     path('reviews/<str:city_name>/', city_reviews, name='city_reviews'),
     path('ranking/', include('ranking.urls')),
     path('accounts/', include('accounts.urls')),
+    path('routes/', include('routes.urls')),
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

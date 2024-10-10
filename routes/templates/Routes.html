@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+{% block content %}
+<body>
+    <div class="container mt-5">
+        <h2 class="text-center">¿Qué deseas hacer?</h2>
+        <div class="d-flex justify-content-center mt-4">
+            <!-- Botón para crear una ruta -->
+            <a href="{% url 'create_route' %}" class="btn btn-primary mx-2">Crear Ruta</a>
+            <!-- Botón para modificar una ruta -->
+            <a href="#" class="btn btn-warning mx-2">Modificar Ruta</a>
+            <!-- Botón para eliminar una ruta -->
+            <a href="#" class="btn btn-danger mx-2">Eliminar Ruta</a>
+        </div>
+    </div>
+    {% for route in public_routes %}
+    <br>
+    <div class="card mb-3">
+        <div class="row g-0">
+            <div>
+                <div class="card-body">
+                    <h2 class="card-title">{{ route.name }}</h2>
+                    <p class="card-text">Creador: {{ route.user }}</p>
+                    <p class="card-text">Ciudades: {{ route.cities }}</p>
+                    <p class="card-text">Descripcion: {{ route.description }}</p>
+                    <p class="card-text">Creado: {{ route.created_at }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</body>
+{% endblock content %}
