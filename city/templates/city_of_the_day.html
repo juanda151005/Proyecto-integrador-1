@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block content %}
+<head>
+    <title>City of the Day</title>
+</head>
+<h1>City of the Day</h1>
+<h2>The city of the day is {{ city.name }}.</h2>
+<div class="card">
+    <a href="{% url 'city_reviews' city.name %}">
+        <div class="card">
+            <img class="card-img-top" src="{{ city.image.url }}" />
+            <div class="card-body">
+            <h5 class="card-title">{{ city.name }}</h5>
+                <p class="card-text"><strong>Country:</strong> {{ city.country }}</p>
+                <p class="card-text"><strong>Rate:</strong> {{ city.rate }}</p>
+                <p class="card-text">{{ city.description }}</p>
+            </div>
+        </div>
+    </a>    
+</div>
+{% endblock %}

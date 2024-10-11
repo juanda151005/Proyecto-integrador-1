@@ -9,3 +9,10 @@ class City(models.Model):
 
     def __str__(self):
         return self.name
+
+class CityRecommendation(models.Model):
+    city = models.ForeignKey('City', on_delete=models.CASCADE)
+    date = models.DateField(auto_now=True)
+
+    def __str__(self):
+        return f"{self.city.name} - {self.date}"
