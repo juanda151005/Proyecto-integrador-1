@@ -8,7 +8,8 @@ from dotenv import load_dotenv
 import time
 from datetime import datetime
 from django.utils import timezone
-load_dotenv(".env")
+
+
 def home(request):
     searchTerm=request.GET.get('searchCity')
     if searchTerm:
@@ -39,9 +40,10 @@ def city_reviews(request, city_name):
     return render(request, 'city_reviews.html', context)
 
 def city_of_the_day(request):
+    load_dotenv(".env")
     api_key = os.getenv("openai_apikey")
     client = OpenAI(api_key=api_key)
-    today = timezone.now().date()
+    today = datetime.now().date()
 
     # Verificar si ya hay una recomendación para hoy
     recommendation = CityRecommendation.objects.filter(date=today).first()
@@ -53,7 +55,7 @@ def city_of_the_day(request):
             response = client.chat.completions.create(
                 model="gpt-3.5-turbo",  
                 messages=[
-                    {"role": "user", "content": "Dime una ciudad donde haya un evento o celebración hoy en Colombia (SOLO EL NOMBRE DE LA CIUDAD)."}
+                    {"role": "user", "content": "Dime una ciudad donde haya un evento o celebración hoy en Colombia (SOLO EL NOMBRE DE LA CIUDAD, SIN TILDES Y CON LA PRIMERA EN MAYUSCULA)."}
                 ]
             )
             

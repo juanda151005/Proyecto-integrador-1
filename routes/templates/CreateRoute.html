@@ -36,17 +36,73 @@
             </form>
         </div>
     </section>
-
     <section id="RecomendacionLista">
-
+        <br>
+        <br>
+        <div class="container mt-5">
+            <h2 class="text-center">Recomendacion a partir de una lista: </h2>
+            <br>
+            <form method="POST">
+                {% csrf_token %}
+                <div class="form-group">
+                    <label for="name">Lista de ciudades: </label>
+                    {{ form_list.list }}
+                </div>
+                <br>
+                <button type="submit" class="btn btn-primary">Enviar</button>
+            </form>
+            {% if recommendation1 %}
+                <p>{{recommendation1}}</p>
+            {% endif %}
+        </div>
     </section>
 
     <section id="RecomendacionDescripcion">
-
+        <br>
+        <br>
+        <div class="container mt-5">
+            <h2 class="text-center">Recomendacion a partir de una descripcion: </h2>
+            <br>
+            <form method="POST">
+                {% csrf_token %}
+                <div class="form-group">
+                    <label for="name">Descripcion de la ciudad: </label>
+                    {{ form_description.description }}
+                </div>
+                <br>
+                <button type="submit" class="btn btn-primary">Enviar</button>
+            </form>
+            {% if recommendation3 %}
+                <p>{{recommendation3}}</p>
+            {% endif %}
+        </div>
     </section>
     
     <section id="CreacionOrigen">
-
+        <br>
+        <br>
+        <div class="container mt-5">
+            <h2 class="text-center">Creacion de ruta con origen y tiempo: </h2>
+            <br>
+            <form method="POST">
+                {% csrf_token %}
+                <div class="form-group">
+                    <label for="name">Ciudad de origen: </label>
+                    {{ form_origin_city.city }}
+                </div>
+                <br>
+                <div class="form-group">
+                    <label for="name">Tiempo disponible para viajar: </label>
+                    {{ form_origin_city.time }}
+                </div>
+                <br>
+                <button type="submit" class="btn btn-primary">Enviar</button>
+            </form>
+            {% if recommendation2 %}
+                <p>{{recommendation2}}</p>
+            {% endif %}
+        </div>
     </section>
+    <br>
 </body>
 {% endblock content %}

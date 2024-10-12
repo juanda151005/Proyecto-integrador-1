@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+{% block content %}
+<body>
+    <br>
+    <h2 class="text-center">Tus Rutas:</h2>
+    {% if messages %}
+        <ul class="messages">
+            {% for message in messages %}
+                <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+    {% for route in routes %}
+    <br>
+    <div class="card mb-3">
+        <div class="row g-0">
+            <div>
+                <div class="card-body">
+                    <h2 class="card-title">{{ route.name }}</h2>
+                    <p class="card-text">Creador: {{ route.user }}</p>
+                    <p class="card-text">Ciudades: {{ route.cities }}</p>
+                    <p class="card-text">Descripcion: {{ route.description }}</p>
+                    <p class="card-text">Creado: {{ route.created_at }}</p>
+                    <form method="POST" action="{% url 'delete_route' route.name %}">
+                        {% csrf_token %}
+                        <button type="submit" class="btn btn-primary mx-2">Eliminar Ruta</button>   
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% empty %}
+    <h2 class="text-center">No tienes rutas creadas aún.</h2>
+    {% endfor %}
+</body>
+{% endblock content %}
