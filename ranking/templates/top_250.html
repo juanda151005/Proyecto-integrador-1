@@ -2,9 +2,19 @@
 {% block content %}
 <div class="container">
     <h1>Top 250 Cities</h1>
+    <form action="{% url 'top_cities' %}" method="get">
+        <div class="mb-3">
+          <label for="searchCity" class="form-label">
+            Search for Top cities:
+          </label>
+          <input type="text" class="form-control" name="searchCity"/>
+        </div>
+        <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+    <p>Searching for: {{ searchTerm }}</p>
     <div class="row row-cols-1 row-cols-md-3 g-4">
         {% for city in top_cities %}
-            <div class="col">
+            <div v-for="city in cities" class="col">
                 <a href="{% url 'city_reviews' city.name %}">
                     <div class="card">
                         <img class="card-img-top" src="{{ city.image.url }}" alt="Image of {{ city.name }}">

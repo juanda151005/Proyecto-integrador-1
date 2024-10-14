@@ -8,27 +8,39 @@
                 <!-- Botón para crear una ruta -->
                 <a href="{% url 'create_route' %}" class="btn btn-primary mx-2">Crear Ruta</a>
                 <!-- Botón para modificar una ruta -->
-                <a href="#" class="btn btn-warning mx-2">Modificar Ruta</a>
-                <!-- Botón para eliminar una ruta -->
-                <a href="{% url 'user_routes' %}" class="btn btn-danger mx-2">Eliminar Ruta</a>
+                <a href="{% url 'user_routes' %}" class="btn btn-primary mx-2">Tus rutas</a>
             </div>
         </div>
     {% endif %}
-    {% for route in public_routes %}
-    <br>
-    <div class="card mb-3">
-        <div class="row g-0">
-            <div>
-                <div class="card-body">
-                    <h2 class="card-title">{{ route.name }}</h2>
-                    <p class="card-text">Creador: {{ route.user }}</p>
-                    <p class="card-text">Ciudades: {{ route.cities }}</p>
-                    <p class="card-text">Descripcion: {{ route.description }}</p>
-                    <p class="card-text">Creado: {{ route.created_at }}</p>
+    <div class="container mt-5">
+        <h2 class="text-center">Rutas Públicas</h2>
+
+        {% for message in messages %}
+            <div class="alert alert-{{ message.tags }}" role="alert">
+                {{ message }}
+            </div>
+        {% endfor %}
+
+        {% for route in public_routes %}
+        <div class="card mb-3">
+            <div class="row g-0">
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h2 class="card-title">{{ route.name }}</h2>
+                        <p class="card-text">Creador: {{ route.user }}</p>
+                        <p class="card-text">Ciudades: {{ route.cities }}</p>
+                        <p class="card-text">Descripcion: {{ route.description }}</p>
+                        <p class="card-text">Creado: {{ route.created_at }}</p>
+                        {% if route.user == request.user %}
+                        <a href="#" class="btn btn-warning mx-2">Modificar Ruta</a>
+                        {% endif %}
+                    </div>
                 </div>
             </div>
         </div>
+        {% empty %}
+            <p class="text-center">No hay rutas públicas disponibles en este momento</p>
+        {% endfor %}
     </div>
-    {% endfor %}
 </body>
 {% endblock content %}

@@ -45,7 +45,7 @@ class recomendacionesIA():
 
         Asegurate que la respuesta la des en un formato json de la siguiente forma:
         'cities': [city1, city2, ...],
-        'description':''
+        'description': [description_city1 'con el tiempo', description_city2 'con el tiempo', ...]
         """
 
         msg = [

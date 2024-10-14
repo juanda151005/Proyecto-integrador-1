@@ -28,6 +28,25 @@ def city(request):
     cities = cities.order_by('-rate')
     return render(request, 'city.html', {'searchTerm': searchTerm, 'cities': cities})
 
+def top_cities_view(request):
+    searchTerm = request.GET.get('searchCity', '').strip()  # Usa el mismo nombre que el del formulario
+    
+    top_cities = City.objects.order_by('-rate')[:250]
+    
+    # Filtrar las ciudades según el término de búsqueda
+    if searchTerm:
+        top_cities = [city for city in top_cities if searchTerm.lower() in city.name.lower()]
+
+
+    
+
+    context = {
+        'top_cities': top_cities,
+        'searchTerm': searchTerm,
+    }
+    
+    return render(request, 'top_250.html', context)
+
 def city_reviews(request, city_name):
     city = get_object_or_404(City, name=city_name)
     reviews = Reviews.objects.filter(city=city.name)
