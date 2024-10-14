@@ -7,7 +7,7 @@
             <div class="d-flex justify-content-center mt-4">
                 <!-- Botón para crear una ruta -->
                 <a href="{% url 'create_route' %}" class="btn btn-primary mx-2">Crear Ruta</a>
-                <!-- Botón para modificar una ruta -->
+                <!-- Botón para ver rutas -->
                 <a href="{% url 'user_routes' %}" class="btn btn-primary mx-2">Tus rutas</a>
             </div>
         </div>
@@ -32,7 +32,7 @@
                         <p class="card-text">Descripcion: {{ route.description }}</p>
                         <p class="card-text">Creado: {{ route.created_at }}</p>
                         {% if route.user == request.user %}
-                        <a href="#" class="btn btn-warning mx-2">Modificar Ruta</a>
+                        <a href="{% url 'edit_route' route.id %}" class="btn btn-warning mx-2">Modificar Ruta</a>
                         {% endif %}
                     </div>
                 </div>

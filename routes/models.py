@@ -12,9 +12,9 @@ class Route(models.Model):
     name = models.CharField(max_length=100, unique=True)
     cities = models.TextField()
     description = models.TextField(null=True, blank=True)
-    created_at = models.DateTimeField(auto_now_add=True) #Guarda la fecha y hora en la que se instancio la clase
+    created_at = models.DateTimeField(auto_now_add=True)
     estado = models.CharField(max_length=7, choices=STATUS_CHOICES, default='private')
-    is_ai_generated = models.BooleanField(default=False) # verificar si la ruta es hecha por IA 
+    is_ai_generated = models.BooleanField(default=False)
 
     def __str__(self):
         return self.name

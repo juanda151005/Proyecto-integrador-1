@@ -5,8 +5,6 @@ from .forms import *
 from django.contrib import messages
 from django.contrib.auth.decorators import login_required
 from django.views.decorators.http import require_POST
-from django import forms
-# Create your views here.
 
 def route(request):
     public_routes=Route.objects.filter(estado='public')
@@ -37,8 +35,8 @@ def create_route(request):
             recommendation1 = ia.RecommendCityWithList(form_list.cleaned_data.get('list'))
             Route.objects.create(
                 name=f"ruta con ayuda de ia {ia_routes_count}",
-                description=recommendation1['description'],  # Aquí se usa la descripción de la IA
-                cities=", ".join(recommendation1['cities']),  # Lista de ciudades separadas por comas
+                description=recommendation1['description'],
+                cities=", ".join(recommendation1['cities']),
                 user=request.user
             )
             messages.success(request, 'Ruta generada automáticamente con las recomendaciones de IA.')
@@ -55,8 +53,8 @@ def create_route(request):
             recommendation2 = ia.CreateRouteWithOriginCity(form_origin_city.cleaned_data.get('city'), form_origin_city.cleaned_data.get('time'))
             Route.objects.create(
                 name=f"ruta con ayuda de ia {ia_routes_count}",
-                description=recommendation2['description'],  # Aquí se usa la descripción de la IA
-                cities=", ".join(recommendation2['cities']),  # Lista de ciudades separadas por comas
+                description=recommendation2['description'],
+                cities=", ".join(recommendation2['cities']),
                 user=request.user
             )
             messages.success(request, 'Ruta generada automáticamente con las recomendaciones de IA.')
@@ -73,8 +71,8 @@ def create_route(request):
             recommendation3 = ia.RecommendCityWithDescription(form_description.cleaned_data.get('description'))
             Route.objects.create(
                 name=f"ruta con ayuda de ia {ia_routes_count}",
-                description=recommendation3['description'],  # Aquí se usa la descripción de la IA
-                cities=", ".join(recommendation3['cities']),  # Lista de ciudades separadas por comas
+                description=recommendation3['description'],
+                cities=", ".join(recommendation3['cities']),
                 user=request.user
             )
             messages.success(request, 'Ruta generada automáticamente con las recomendaciones de IA.')
@@ -106,13 +104,12 @@ def save_route(request):
     name = request.POST.get('name')
     cities = request.POST.get('cities')
     description = request.POST.get('description')
-    estado = request.POST.get('estado', 'private')  # Por defecto en privada
+    estado = request.POST.get('estado', 'private')
 
     if Route.objects.filter(name=name).exists():
         messages.error(request, 'Ya existe una ruta con ese nombre. Ingrese otro nombre.')
         return redirect('create_route')
 
-    # Crear la nueva ruta
     route = Route.objects.create(
         user=request.user,
         name=name,
@@ -133,26 +130,24 @@ def user_routes(request):
         route.cities = ', '.join(route.cities.split(','))
     return render(request, 'user_routes.html', {'routes': routes})
 
-@require_POST
 @login_required
 def edit_route(request, id):
-    route = get_object_or_404(Route, id=id)  # Obtiene la ruta que quieres editar
+    route = get_object_or_404(Route, id=id)
 
     if route.user != request.user:
         messages.error(request, "No tienes permiso para modificar esta ruta.")
-        return redirect('user_routes')  # O la vista donde se listan las rutas
+        return redirect('user_routes')
 
     if request.method == 'POST':
-        form = RouteForm(request.POST, instance=route)  # Pasa la instancia de la ruta
+        form = RouteForm(request.POST, instance=route)  
         if form.is_valid():
-            form.save()  # Guarda los cambios
+            form.save()
             messages.success(request, 'Ruta editada exitosamente.')
-            return redirect('user_routes')  # Redirige a la vista de detalle de la ruta
+            return redirect('user_routes') 
     else:
-        form = RouteForm(instance=route)  # Si no es un POST, crea el formulario con los datos existentes
-    return render(request, 'routes/EditRoute.html', {'form': form, 'route': route})  # Renderiza la plantilla
+        form = RouteForm(instance=route)
+    return render(request, 'EditRoute.html', {'form': form, 'route': route})
 
-@require_POST
 @login_required
 def delete_route(request, id):
     route = get_object_or_404(Route, id=id)
@@ -164,5 +159,5 @@ def delete_route(request, id):
     if request.method == "POST":
         route.delete()
         messages.success(request, "Ruta eliminada exitosamente.")
-        return redirect('user_routes')  # Cambia esto al nombre de tu vista de rutas
-    return redirect('user_routes')  # Opcional, para manejar el caso GET
+        return redirect('user_routes')
+    return redirect('user_routes')

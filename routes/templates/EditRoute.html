@@ -15,7 +15,7 @@
         <h3>Detalles de la Ruta:</h3>
         <p><strong>Nombre:</strong> {{ route.name }}</p>
         <p><strong>Ciudades:</strong> 
-            {% for city in route.cities.all %}  <!-- Si es ManyToManyField -->
+            {% for city in route.cities.all %}
                 {{ city.name }}{% if not forloop.last %}, {% endif %}
             {% endfor %}
         </p>

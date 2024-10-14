@@ -4,9 +4,9 @@ from .models import Route
 class RouteForm(forms.ModelForm):
     class Meta:
         model = Route
-        fields = ['name', 'cities', 'description', 'estado']  # Campos que se mostrarán en el formulario
+        fields = ['name', 'cities', 'description', 'estado']
         widgets = {
-            'cities': forms.Textarea(attrs={'rows': 3}),  # Para que el campo de cities sea un textarea
+            'cities': forms.Textarea(attrs={'rows': 3}),
             'description': forms.Textarea(attrs={'rows': 3}),
         }
 
